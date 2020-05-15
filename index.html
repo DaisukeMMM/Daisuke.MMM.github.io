@@ -1,1 +1,299 @@
 
+<html>
+<head>
+<style>
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c:300,400,700,900&subset=japanese');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import url("https://use.fontawesome.com/releases/v5.7.2/css/all.css");
+
+/* ---------- */
+body {
+	font-family: 'Montserrat','M PLUS Rounded 1c', sans-serif;
+	font-size:14px;
+	color: #4c4849;
+	line-height:1.7em;
+	width: 1550px;
+	margin:15px auto;
+	background-color: #FFF;
+	padding: 0.7em;
+	font-weight: 400;
+	counter-reset: chapter;
+}
+
+/* ---------- */
+hr {
+	border: 1px dashed #c9cdcf;
+}
+
+/* ---------- */
+p {
+	line-height:1.3em;
+}
+
+/* ---------- */
+table {
+	border-collapse: collapse;
+	font-size: 0.85em;
+}
+table th,td {
+	padding:0 1em;
+}
+
+/* ---------- */
+h1 {
+	font-size: 250%;
+	font-weight: 700;
+	font-style: normal;
+	padding: .75em 0;
+	line-height:1.3em;
+	letter-spacing: 0.05em;
+}
+/* #W---------- */
+h2 {
+	position: relative;
+	font-size: 125%;
+	line-height: 1.4;
+	display: inline-block;
+	counter-reset: sub-chapter;
+}
+h2:before, h2:after { 
+	position: relative;
+	font-family: "Font Awesome 5 Free";
+	display: inline-block;
+	font-size: 1.0em;
+	color: #00a5bf;
+}
+h2:before {
+	content:"\f053" counter(chapter) ". ";
+	padding-right: 0.5em;
+	counter-increment: chapter;
+}
+h2:after {
+	content: "test \f054";
+	padding-left: 0.5em;
+}
+/* #D---------- */
+h3 {
+	position: relative;
+	font-size: 125%;
+	line-height: 1.4;
+	display: inline-block;
+	counter-reset: sub-chapter;
+}
+h3:before, h3:after { 
+	position: relative;
+	font-family: "Font Awesome 5 Free";
+	display: inline-block;
+	font-size: 1.0em;
+	color: #00a82d;
+}
+h3:before {
+	content:"\f053" counter(chapter) ". ";
+	padding-right: 0.5em;
+	counter-increment: chapter;
+}
+h3:after {
+	content: "test \f054";
+	padding-left: 0.5em;
+}
+/* TODO---------- */
+h4 {
+	position: relative;
+	font-size: 125%;
+	line-height: 1.4;
+	display: inline-block;
+	counter-reset: sub-chapter;
+}
+h4:before, h4:after { 
+	position: relative;
+	font-family: "Font Awesome 5 Free";
+	display: inline-block;
+	font-size: 1.0em;
+	color: #f7b033;
+}
+h4:before {
+	content:"\f053" counter(chapter) ". ";
+	padding-right: 0.5em;
+	counter-increment: chapter;
+}
+h4:after {
+	content: "test \f054";
+	padding-left: 0.5em;
+}
+/* ---------- */
+h5 {
+	font-size: 110%;
+	position: relative;
+	padding: .5em 1em .5em 1.5em;
+	border: 1px solid #ccc;
+}
+h5::before {
+  counter-increment: sub-chapter;
+  content: counter(chapter) "-" counter(sub-chapter) "> ";
+}
+h5::after {
+	position: absolute;
+	top: .5em;
+	left: .5em;
+	content: '';
+	width: 8px;
+	height: -webkit-calc(100% - 1em);
+	height: calc(100% - 1em);
+	background-color: #00a5bf;
+	border-radius: 4px;
+}
+/* ---------- */
+h6 {
+	font-size: 110%;
+	position: relative;
+	padding: .5em 1em .5em 1.5em;
+	border: 1px solid #ccc;
+}
+h6::before {
+  counter-increment: sub-chapter;
+  content: counter(chapter) "-" counter(sub-chapter) "> ";
+}
+h6::after {
+	position: absolute;
+	top: .5em;
+	left: .5em;
+	content: '';
+	width: 8px;
+	height: -webkit-calc(100% - 1em);
+	height: calc(100% - 1em);
+	background-color: #00a82d;
+	border-radius: 4px;
+}
+/* ---------- */
+
+img{
+	margin:10px 0;
+	display: block;
+	width: 45%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a{ color:#1f8ffa; font-weight: 700; text-decoration:underline; outline:none;}
+
+a:visited { color:#1f8ffa; font-weight: 700; }
+
+a:hover{color:#6edefd; font-weight: 700; text-decoration:underline; outline:none;}
+
+p, table, ul, ol, dl, pre, blockquote {
+	margin-left: 35px;
+	ul, ol, dl {margin-left: 0px;}
+}
+
+ul{
+    padding-left: 0;
+    margin-top: 0;
+}
+
+ul li{
+	position: relative;
+	padding: .2em 0 .4em 2.5em;
+	list-style-type: none!important;
+}
+
+ul li:before {
+	font-family: "Font Awesome 5 Free";
+	content: "\f111";
+	position: absolute;
+	left: 1em;
+	color: #7a8289;
+}
+
+table {margin:15px auto;;font-size:100%;}
+th{border-bottom:1px solid #c9cdcf;background-color:#e4e6e7;padding:0;}
+td{border-bottom:1px solid #c9cdcf;padding:0;}
+
+blockquote p{
+	font-style: normal;
+	padding:0.8em 1.5em 0.5em 1.5em;
+	background: #e4e6e7;
+	color: #000;
+}
+
+blockquote p:before {
+	font-family: "Font Awesome 5 Free";
+	content: "\f12a";
+	font-weight: 900;
+	color: #7a8289;
+	font-size: 130%;
+	margin-right: 8px;
+}
+
+.margin-clear {
+	margin-left: 0;
+}
+
+.center {
+	text-align: center;
+	&:extend(.margin-clear);
+}
+
+.right {
+	text-align: right;
+	&:extend(.margin-clear);
+}
+
+strong{
+	background: linear-gradient(transparent 60%, #fde347 0%);
+	font-weight: 700;
+}
+
+em{
+	font-style: normal;
+	border-bottom: 1px solid #ed453d;
+	color: #ed453d;
+	font-weight: 700;
+}
+</style>
+</head>
+<body>
+
+<h1>JapanLiveCams</h1>
+<table><thead><tr>
+<th>TOKYO.shibuya</th>
+<th>TOKYO.asakusa</th>
+<th>TOKYO.tokyo tower</th>
+</tr></thead><tbody><tr>
+<td><iframe width="516" height="290" src="https://www.youtube.com/embed/kQFo1bVV81c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="516" height="290" src="https://www.youtube.com/embed/89eXGMqeSo4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="516" height="290" src="https://www.youtube.com/embed/RO3gsvQi-FE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr></tbody></table>
+
+<table><thead><tr>
+<th>TOKYO.shiodome</th>
+<th>YAMANASHI.kawaguchiko</th>
+<th>KANAGAWA.yokohama</th>
+</tr></thead><tbody><tr>
+<td><iframe width="516" height="290" src="https://www.youtube.com/embed/QbKe8gCTszw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="516" height="290" src="https://www.youtube.com/embed/yOKn755TA3U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="516" height="290" src="https://www.youtube.com/embed/EERaRlassH0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr></tbody></table>
+
+
+<table><thead><tr>
+<th>FUKUSHIMA.kohriyama</th>
+<th>SHIZUOKA.satta pass</th>
+<th>AOMORI.towada</th>
+</tr></thead><tbody><tr>
+<td><iframe width="516" height="290" src="https://www.youtube.com/embed/cDQB0O8dAII" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="516" height="290" src="https://www.youtube.com/embed/RdS5vaKwmPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="516" height="290" src="https://www.youtube.com/embed/38vDSOtZl9I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr></tbody></table>
+
+<table><thead><tr>
+<th>TOCHIGI.nasu</th>
+<th>YAMAGUCHI.nagato</th>
+<th>IBARAKI.tsukubasan</th>
+</tr></thead><tbody><tr>
+<td><iframe width="516" height="290" src="https://www.youtube.com/embed/M7htV04x6Z8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="516" height="290" src="https://www.youtube.com/embed/_kWuqIc-pe4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="516" height="290" src="https://www.youtube.com/embed/hI03S_j64Qg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr></tbody></table>
+
+</body></html>
