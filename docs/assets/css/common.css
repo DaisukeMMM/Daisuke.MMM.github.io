@@ -52,7 +52,7 @@ h1 {
 	border-bottom: 8px solid #05bbd6;
 	font-size: 250%;
 	color: #05bbd6;
-	letter-spacing: 0.1em;
+	letter-spacing: 0.06em;
 	font-weight: bold;
 	font-style: normal;
 	padding: .05em 0;
@@ -140,17 +140,18 @@ h6{
 	position: relative;
 	line-height: 1.4;
 	padding: .1em .1em .1em 5.5em;
-	background-color: #ed8733;
+	background-color: #fcf0d2;
 	margin:.5em 0;
 }
 
 h6:before {
   font-family: "Font Awesome 5 Free",'Quicksand',sans-serif;
-  color: #fff;
+  color: #ed8733;
   content: "\f0e7  NOTICE";
   position: absolute;
   left : 0.5em;
 }
+
 
 /* ---------- */
 img{
@@ -246,6 +247,7 @@ blockquote p{
 	border: 1px solid #E0E0E0;
 	box-shadow: 3px 3px #E0E0E0;
 	background: #fff;
+	line-height:1.7em;
 	color: #797774;
 	margin:15px 0;
 }
