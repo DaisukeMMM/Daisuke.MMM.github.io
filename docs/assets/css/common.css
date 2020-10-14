@@ -436,7 +436,7 @@ abbr{border-bottom:none;}
 	position: fixed;
 	z-index: 2;
 	bottom: 0;
-	width: 960px;
+	width: 100%;
 	background: #fff;
 	color: #000;
 	margin: 45px auto 0 auto;
