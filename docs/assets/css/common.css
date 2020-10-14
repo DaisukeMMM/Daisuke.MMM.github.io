@@ -32,10 +32,6 @@ p {
 	line-height:1.6em;
 }
 
-#notes{
-	font-family:'Montserrat',"Noto Sans JP",sans-serif;
-	font-size:12px;
-}
 
 /* ---------- */
 table {
@@ -49,27 +45,24 @@ table th,td {
 /* ---------- */
 
 
-
-
 h1 {
 	border-bottom: 8px solid #05bbd6;
 	font-size: 250%;
 	color: #05bbd6;
-	letter-spacing: 5px;
+	letter-spacing: 0.05em;
 	font-weight: bold;
 	font-style: normal;
 	padding: .35em 0;
-	margin: .5em 0;
+	margin: .2em 0;
 	display:inline-block;
 	counter-reset: chapter;
 }
-
 
 h2 {
 	font-size: 150%;
 	padding: .35em 0;
 	color:#05bbd6;
-	margin:.4em 0;
+	margin:.1em 0;
 	font-weight: bold;
 	border-bottom: 1px solid #05bbd6;
 	display:inline-block;
