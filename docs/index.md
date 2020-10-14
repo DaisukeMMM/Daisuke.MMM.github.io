@@ -1,58 +1,26 @@
-# Ladybug+Hanybee Q&A
-Ladybug+Hanybee勉強会の質問事項の回答です。この資料はかなり勉強になるのでつまづいたときにあたるとよいかもしれません。[→ladybug-primer](https://mostapharoudsari.gitbooks.io/ladybug-primer/content/)LBはPythonで書かれていますが、*コンポーネント名は大文字始まり、パラメータ名は小文字始まり*の点に注意してください。
+# DaisukeMMM.notes
+## profile
+都内で建築設備設計の仕事をしています。
+専門は専門は建築物における熱と光の挙動解析。
 
-|  TH  |  TH  |
-| ---- | ---- |
-|  TD  |  TD  |
-|  TD  |  TD  |
+### Skills
+グラフィック/WEBデザイン経験（フリーランス）｜応用情報技術者｜宅地建物取引士試験
 
+### Paper
+* (『熱・光計算による昼光利用制御の性能評価に関する研究 第一報』)[https://www.jstage.jst.go.jp/article/shase/44/268/44_1/_article/-char/ja/]SHASE学術論文 2019.07
 
-Ladybug+Hanybee勉強会の質問事項の回答です。この資料はかなり勉強になるのでつまづいたときにあたるとよいかもしれません。[→ladybug-primer](https://mostapharoudsari.gitbooks.io/ladybug-primer/content/)LBはPythonで書かれていますが、*コンポーネント名は大文字始まり、パラメータ名は小文字始まり*の点に注意してください。
-Ladybug+Hanybee勉強会の質問事項の回答です。この資料はかなり勉強になるのでつまづいたときにあたるとよいかもしれません。[→ladybug-primer](https://mostapharoudsari.gitbooks.io/ladybug-primer/content/)LBはPythonで書かれていますが、*コンポーネント名は大文字始まり、パラメータ名は小文字始まり*の点に注意してください。
+### Keyword
+数値解析/自動化/省エネ/デザイン/ナッジ/データサイエンス（統計）/可視化
 
+## 環境シミュレーションをこれから始める人へ
+### 気象データ
+* [EPW気象データダウンロード元](https://energyplus.net/weather)：米国できちんと観測所で計測したデータ。
 
----
+### シミュレーションソフト
+* [climate consultantダウンロード元]
 
-## 2020年1月7日 16:00-
-### Ladybugで出力される図のサイズ調整はどのように行えばよいか_秋山
-* RhinoのCAD機能をつかって凡例を描いているので、なかなか難しいらしいです。
-* 2014年の質問なので今後も対応なし？
-* 細かい微調整はAiデータで出力して、Ai上で処理するという手もあります。
-* Ladybugで描画した図形に対してスケールを定数倍指定してサイズを決めているので難しいのだと思われます。
-* 凡例を細かく作りたい場合には[Create Legend](>https://rhino.github.io/components/ladybug/createLegend.html)コンポーネントを使うという手もあります。
-その場合には各コンポーネントに備え付けの凡例は使わないでください。
-* [→開発元回答](https://www.grasshopper3d.com/group/ladybug/forum/topics/view-dependant-legend)
+### ソフトの使い方／チュートリアル
+* coming soon..
 
-> 参考ファイル（J:\◆【BIM】\【シミュレーション】\NS_ladybug_training\1_gh\11_日影図を作ろう.gh）
-
-### 凡例の代表値が小数点第2位まで出力されるのはどのように調整するか_秋山
-* 回答中（わかる方いらっしゃったら追記してください。）
-
-> 参考ファイル（J:\◆【BIM】\【シミュレーション】\NS_ladybug_training\1_gh\11_日影図を作ろう.gh）
-
-### "Sunlight Hours Analysis"の"disFromBase"の値はなぜ解析面から0だとまずいのか_秋山
-* 0を指定してしまうジオメトリと解析面が交差してしまうのがよくないらしいです。
-* 実際は解析面を対象面からほんの数ミリ浮いたところで計算して実用上は問題ないと思います。
-* [→開発元回答](https://discourse.ladybug.tools/t/ladybug-sunlight-hours-analysis/4256)
-* [→元のPythonコード](https://github.com/ladybug-tools/ladybug-legacy/blob/master/src/Ladybug_Sunlight%20Hours%20Analysis.py)
-
-> 参考ファイル（J:\◆【BIM】\【シミュレーション】\NS_ladybug_training\1_gh\11_日影図を作ろう.gh）
-
-### 『Suface』コンポーネントにオブジェクトを格納するのはなぜか_川津
-* Grasshopperにおいてどのパラメータコンポーネントに入れるかは、普通のプログラミング言語における**変数型をなにを選ぶか**と同じです。
-* つまりRhino側のモデルをどんなジオメトリ記述で出力するかを示しています。
-* もちろん上の方法ができない場合もあるので、その時にはエラーが吐かれます。
-* またパラメータコンポーネントを使うシーンとしては、そのコンポーネントに入っているものを明示する役割もあります。
-* 大規模なファイルや他人と共同でファイルを作っていると、このコンポーネントにどんな値が入っているかわからなくなることも多いので、それを防ぐ意味です。
-* ジオメトリの種類については詳しくは次の項目を読んでください。
-> 参考ファイル（J:\◆【BIM】\【シミュレーション】\NS_ladybug_training\1_gh\13_太陽光発電量を計算しよう.gh）
-
-### 主要なジオメトリの格納コンポーネント	
-* BOX：長方形の面を押し出した立体として記述される。
-* BREP：立体物を面と境界線の集合体として記述する。
-* **Mesh**：FDに入力できる。小さな三角形を組合わせて面を作る
-* FD Extrusion：FlowDesigner独自の立体オブジェクト形式。GHの基本コンポーネントの`Extrude`と似ているが、よりピュアなデータ形式。特に領域指定のハコは`FD Extrude`でなければなりません。
-
-### データツリーの概念図
-* 質問ではありませんがデータツリーの概念が難しいとのことだったので解説画像貼っておきます。
-![](img/img1.jpg)
+### others
+* coming soon..
