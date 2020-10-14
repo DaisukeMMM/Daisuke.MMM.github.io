@@ -1,7 +1,5 @@
 # Ladybug+Hanybee Q&A
-* Ladybug+Hanybee勉強会の質問事項の回答です。
-* この資料はかなり勉強になるのでつまづいたときにあたるとよいかもしれません。[→ladybug-primer](https://mostapharoudsari.gitbooks.io/ladybug-primer/content/)
-* LBはPythonで書かれていますが、*コンポーネント名は大文字始まり、パラメータ名は小文字始まり*の点に注意してください。
+Ladybug+Hanybee勉強会の質問事項の回答です。この資料はかなり勉強になるのでつまづいたときにあたるとよいかもしれません。[→ladybug-primer](https://mostapharoudsari.gitbooks.io/ladybug-primer/content/)LBはPythonで書かれていますが、*コンポーネント名は大文字始まり、パラメータ名は小文字始まり*の点に注意してください。
 # 見出し1
 ## 見出し2
 ### 見出し3
