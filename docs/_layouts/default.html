@@ -1,61 +1,30 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta charset="utf-8">
-<meta name="description" content="PrMenu のデモでーす。">
-<title>PrMenu - jQuery Plugin Demo</title>
-<link type="text/css" rel="stylesheet" href="../assets/css/style.css" />
-<style>
-body {
-  margin: 0;
-  padding: 0;
-}
-</style>
- 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="ja" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="imagetoolbar" content="no" />
+<link href="css/reset.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/common.css" rel="stylesheet" type="text/css" media="all" />
+
+
 </head>
+
 <body>
-<ul id="top-menu">
-  <li><a href="#">メニュー①</a></li>
-  <li><a href="#">メニュー②</a>
-    <ul>
-      <li><a href="#">アイテム</a></li>
-      <li><a href="#">アイテム</a>
-        <ul>
-          <li><a href="#">サブアイテム</a></li>
-          <li><a href="#">サブアイテム</a></li>
-          <li><a href="#">サブアイテム</a></li>
-        </ul>
-      </li>
-      <li><a href="#">アイテム</a></li>
-    </ul>
-  </li>
-  <li><a href="#">メニュー③</a></li>
-  <li><a href="#">メニュー④</a>
-    <ul>
-      <li><a href="#">アイテム</a></li>
-      <li><a href="#">アイテム</a>
-        <ul>
-          <li><a href="#">サブアイテム</a></li>
-          <li><a href="#">サブアイテム</a></li>
-          <li><a href="#">サブアイテム</a></li>
-        </ul>
-      </li>
-      <li><a href="#">アイテム</a></li>
-    </ul>
-  </li>
-  <li><a href="#">メニュー⑤</a></li>
-</ul>
-<h1>PrMenu のデモでーす。</h1>
-<p>ブラウザーの幅を縮めてみてください。</p>
- 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="jquery.prmenu.js"></script>
-<script>
-$(document).ready(function(){
-  $('#top-menu').prmenu();
-});
-</script>
-  
-  {{ content }}
+<div id="wrapper">
+    <div id="header" class="clearfix">
+        <h1>D-WEB</h1>
+    </div>
+    
+    <div id="mainContents">
+        {{ content }}
+     </div>
+
+    <div id="footer">
+        <p id="copyright">Copyright (c) DaisukeMMM All Rights Reserved.</p>
+    </div>
+</div>
 </body>
 </html>
