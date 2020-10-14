@@ -436,6 +436,7 @@ abbr{border-bottom:none;}
 	position: fixed;
 	z-index: 2;
 	bottom: 0;
+	left: 0;
 	width: 960px;
 	background: #fff;
 	color: #fff;
@@ -443,8 +444,10 @@ abbr{border-bottom:none;}
 
 #footer p#copyright{
 	text-align: center;
-	color: #05bbd6;
 	font-size: 40%;
 	font-family:'Montserrat',sans-serif;
+	background: -moz-linear-gradient(to right, rgb(5, 187, 214), #0099e8);
+	background: -webkit-linear-gradient(to right, rgb(5, 187, 214), #0099e8);
+	background: linear-gradient(to right, rgb(5, 187, 214), #0099e8);
 	padding: 6px;
 }
