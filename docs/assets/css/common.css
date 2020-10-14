@@ -390,7 +390,6 @@ abbr{border-bottom:none;}
 /* 浮動コンテンツのクリア */
 .clear{ display: block; clear:both; height:0;}
 
-
 /*//clearFix Coponents//*/
 .clear {clear:both;}
 .clearfix{ display:block;}
@@ -409,11 +408,20 @@ abbr{border-bottom:none;}
 	clear: both;
 	height: 0;
 }
+
+
 #wrapper{
 	margin: 0 auto;
 	text-align: left;
 	width: 100%;
 	line-height: 1.2;
+}
+
+#header{
+	width: 960px;
+	margin: 0 auto;
+	text-align: left;
+	padding: 40px 0 0 0;
 }
 
 #mainContents{
