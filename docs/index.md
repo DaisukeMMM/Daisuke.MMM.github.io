@@ -1,4 +1,4 @@
-# DaisukeMMM.notes
+# DaisukeMMM.note
 研究データ・ちょっとしたTips等。Qiitaに最新の記事を更新しています。
 
 ## profile
