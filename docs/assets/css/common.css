@@ -11,14 +11,14 @@ body {
 	font-size:12pt;
 	color: #4c4849;
 	line-height:1.3em;
-	/*width: 900px; */
-	/*margin:0 auto; */
+	width: 900px; 
+	margin:0 auto; 
 	background-color: #FFF;
-	/*padding: .7em; */
+	padding: .7em; 
 	font-weight: normal;
 	counter-reset: chapter;
 	counter-reset: sheet;
-	/*position: relative; */
+	position: relative; 
 }
 
 
@@ -447,8 +447,6 @@ abbr{border-bottom:none;}
 	font-size: 40%;
 	font-weight:bold;
 	font-family:'Montserrat',sans-serif;
-	background: -moz-linear-gradient(to right, rgb(5, 187, 214), #0099e8);
-	background: -webkit-linear-gradient(to right, rgb(5, 187, 214), #0099e8);
-	background: linear-gradient(to right, rgb(5, 187, 214), #0099e8);
+	color: #05bbd6;
 	padding: 6px;
 }
