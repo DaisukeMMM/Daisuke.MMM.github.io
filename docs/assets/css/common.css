@@ -241,11 +241,20 @@ tr{
 blockquote p{
 	font-style: normal;
 	padding:0.8em 1.5em 0.5em 1.5em;
-	border: 1px solid #e9e8e7;
-	box-shadow: 3px 3px #e9e8e7;
+	border: 1px solid #E0E0E0;
+	box-shadow: 3px 3px #E0E0E0;
 	background: #fff;
 	color: #797774;
 	margin:15px 0;
+}
+
+blockquote p:before {
+	font-family: "Font Awesome 5 Free";
+	content: "\f0a4";
+	font-weight: 900;
+	color: #797774;
+	font-size: 150%;
+	margin-right: 8px;
 }
 
 pre,code{font:12px 'Consol',monospace;}
