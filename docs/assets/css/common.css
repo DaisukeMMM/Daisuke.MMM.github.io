@@ -14,7 +14,7 @@ body {
 	width: 960px; 
 	margin:0 auto; 
 	background-color: #FFF;
-	padding: .7em; 
+	padding: 3em; 
 	font-weight: normal;
 	counter-reset: chapter;
 	counter-reset: sheet;
@@ -438,7 +438,7 @@ abbr{border-bottom:none;}
 	bottom: 0;
 	left: 0;
 	width: 100%;
-	background: #fff;
+	background: #ff0;
 }
 
 #footer p#copyright{
