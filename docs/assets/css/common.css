@@ -29,7 +29,7 @@ hr {
 
 /* ---------- */
 p {
-	line-height:1.6em;
+	line-height:1.7em;
 }
 
 
@@ -52,17 +52,17 @@ h1 {
 	letter-spacing: 0.05em;
 	font-weight: bold;
 	font-style: normal;
-	padding: .35em 0;
-	margin: .2em 0;
+	padding: .15em 0;
+	margin: .5em 0;
 	display:inline-block;
 	counter-reset: chapter;
 }
 
 h2 {
 	font-size: 150%;
-	padding: .35em 0;
+	padding: .15em 0;
 	color:#05bbd6;
-	margin:.1em 0;
+	margin:.5em 0;
 	font-weight: bold;
 	border-bottom: 1px solid #05bbd6;
 	display:inline-block;
@@ -173,11 +173,11 @@ strong{
 	font-weight: 900;
 }
 
-a{ color:#0063b1;text-decoration:underline;text-decoration-color:#cde5f7;outline:none;}
+a{ color:#0063b1;text-decoration:underline;text-decoration-color:#cde5f7;outline:none;font-weight: 900;}
 
-a:visited { color:#0063b1;text-decoration:underline;text-decoration-color:#cde5f7;}
+a:visited { color:#0063b1;text-decoration:underline;text-decoration-color:#cde5f7;font-weight: 900;}
 
-a:hover{color:#9839a0;text-decoration:underline;text-decoration-color:#edd3ef;outline:none;}
+a:hover{color:#9839a0;text-decoration:underline;text-decoration-color:#edd3ef;outline:none;font-weight: 900;}
 
 
 /* ブロック要素の装飾 */
@@ -194,9 +194,11 @@ ul{
 
 ul li{
 	position: relative;
-	padding: .4em 0 .4em 2.5em;
+	padding: .4em 0 .4em 2em;
 	list-style-type: none!important;
+	border-bottom: 0.5px dashed #a0aba7;
 }
+
 
 ul li:before {
 	font-family: "Font Awesome 5 Free";
@@ -205,7 +207,7 @@ ul li:before {
 	position: absolute;
 	top: 0.5em;
 	left: 1em;
-	color: #309048;
+	color: #dff3f7;
 }
 
 ol li{
@@ -243,6 +245,7 @@ blockquote p{
 	box-shadow: 3px 3px #e9e8e7;
 	background: #fff;
 	color: #797774;
+	margin:15px 0;
 }
 
 pre,code{font:12px 'Consol',monospace;}
