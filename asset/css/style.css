@@ -1,0 +1,723 @@
+/* Written by Daisuke.M(2019-06-07) */
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+1p:300,400,700,&subset=japanese');
+@import url('https://fonts.googleapis.com/css?family=Quicksand:700');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+@import url("https://use.fontawesome.com/releases/v5.7.2/css/all.css");
+/* ---------- */
+@page{size: A4;margin: 30mm 20mm 20mm 20mm;}
+@media print {
+body::before{
+	content: "(株)日本設計 \A 環境・設備設計群"; 
+	position: absolute;
+	margin:0 0 3em 0;
+	top: 0;
+	right:0;
+	white-space: pre; 
+}
+}
+/* ---------- */
+body {
+	font-family:'Lato',"Noto Sans JP",sans-serif;
+	font-size:12pt;
+	color: #000;
+	line-height:1.3em;
+	width: 900px;
+	margin:0 auto;
+	background-color: #FFF;
+	padding: .7em;
+	font-weight: normal;
+	counter-reset: chapter;
+	counter-reset: sheet;
+	position: relative;
+}
+
+
+/* ---------- */
+hr {
+  border-top: 1px solid #309048;
+}
+
+/* ---------- */
+p {
+	line-height:1.5em;
+}
+
+/* ---------- */
+table {
+	border-collapse: collapse;
+	font-size: 0.85em;
+}
+table th,td {
+	padding:0 1em;
+}
+
+/* ---------- */
+h1 {
+	border-bottom: 8px solid #309048;
+	font-size: 250%;
+	color:#309048;
+	font-weight: bold;
+	font-style: normal;
+	padding: .35em 0;
+	margin: .75em 0;
+	display:inline-block;
+	counter-reset: chapter;
+}
+
+h2 {
+	font-size: 150%;
+	padding: .35em 0;
+	color:#309048;
+	margin:.5em 0;
+	font-weight: bold;
+	border-bottom: 1px solid #309048;
+	display:inline-block;
+	counter-reset: sub-chapter;
+}
+
+h2::before {
+  font-family: 'Quicksand', sans-serif;
+  counter-increment: chapter;
+  color: #309048;
+  font-weight: bold;
+  content: counter(chapter) ". ";
+}
+
+h3 {
+	font-size: 120%;
+	padding: .2em .4em;
+	margin:.5em 0;
+	background-color: #309048;
+    color:#fff;
+	counter-reset: sub-sub-chapter;
+}
+
+h3::before {
+  font-family: 'Quicksand', sans-serif;
+  counter-increment: sub-chapter;
+  color:#fff;
+  font-weight: bold;
+  content: counter(chapter) "-" counter(sub-chapter) ") ";
+}
+
+h4 {
+	font-size: 120%;
+	margin:.5em 0 .5em 2em;
+}
+
+h4::before {
+  font-family: 'Quicksand', sans-serif;
+  counter-increment: sub-sub-chapter;
+  color: #309048;
+  font-weight: bold;
+  content: counter(chapter) "-" counter(sub-chapter) "-" counter(sub-sub-chapter) ") ";
+}
+
+h5{
+	font-size: 105%;
+	font-weight: 700;
+	position: relative;
+	color: #d42314;
+	line-height: 1.4;
+	padding: 0 0 0 2em;
+	margin:.5em 0;
+}
+
+h5:before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f06a";
+  color: #d42314;
+  position: absolute;
+  left : 0.5em;
+}
+
+h6{
+	font-size: 105%;
+	color:#797774;
+	font-weight: 700;
+	position: relative;
+	line-height: 1.4;
+	padding: 0 0 0 5.5em;
+	background-color: #fcf0d2;
+	margin:.5em 0;
+}
+
+h6:before {
+  font-family: "Font Awesome 5 Free",'Quicksand',sans-serif;
+  color: #ed8733;
+  content: "\f0e7  NOTICE";
+  position: absolute;
+  left : 0.5em;
+}
+
+/* ---------- */
+img{
+	margin:10px 0;
+	display: block;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+em{
+	font-style: normal;
+	color: #d42314;
+	text-decoration:underline;
+	text-decoration-color:#ffd3d5;
+	font-weight: bold;
+}
+
+strong{
+	font-style: normal;
+	color: #ed8733;
+	background: linear-gradient(transparent 0%, #fcf0d2 0%);
+	font-weight: bold;
+}
+
+a{ color:#0063b1;text-decoration:underline;text-decoration-color:#cde5f7;outline:none;}
+
+a:visited { color:#0063b1;text-decoration:underline;text-decoration-color:#cde5f7;}
+
+a:hover{color:#9839a0;text-decoration:underline;text-decoration-color:#edd3ef;outline:none;}
+
+
+/* ブロック要素の装飾 */
+p, table, ul, ol, dl, pre, blockquote {
+	margin-left:4em;
+	ul, ol, dl {margin-left: 0px;}
+}
+
+ul{
+	padding-left: 0;
+	padding: 0 0 0 2.5em;
+	margin-top: 0;
+}
+
+ul li{
+	position: relative;
+	padding: 0.1em 0 0.1em 0;
+	list-style-type: disc;
+}
+
+ol li{
+	padding: 0.1em 0 0.1em 0;
+}
+
+
+table{
+	margin:15px auto;
+	font-size:100%;
+}
+
+th{
+	border:0.5px solid #000;
+	background-color: #e9e8e7;
+	font-weight: normal;
+	color: #000;
+	padding:.2em 1em;
+}
+
+td{
+	border:0.5px solid #000;
+	padding:.2em 1em;
+}
+
+tr{
+	border-left:hidden;
+	border-right:hidden;
+}
+
+blockquote p{
+	font-style: normal;
+	padding:0.8em 1.5em 0.5em 1.5em;
+	border: 1px solid #e9e8e7;
+	box-shadow: 3px 3px #e9e8e7;
+	background: #fff;
+	color: #797774;
+}
+
+pre,code{font:12px 'Consol',monospace;}
+pre {
+	margin:1em 0;
+	font-size:12px;
+	background-color:#eee;
+	border:1px solid #ddd;
+	padding:5px;
+	line-height:1.5em;
+	color:#444;
+	overflow:auto;
+	-webkit-box-shadow:rgba(0,0,0,0.07) 0 1px 2px inset;
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;border-radius:3px;
+}
+pre code {
+	padding:0;
+	font-size:12px;
+	background-color:#eee;
+	border:none;
+}
+code {
+	font-size:12px;
+	background-color:#f8f8ff;
+	color:#444;
+	padding:0 .2em;
+	border:1px solid #dedede;
+}
+
+abbr{border-bottom:none;}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  color: #333;
+  background: #f8f8f8;
+}
+
+.hljs-comment,
+.hljs-quote {
+  color: #998;
+  font-style: italic;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-subst {
+  color: #333;
+  font-weight: bold;
+}
+
+.hljs-number,
+.hljs-literal,
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag .hljs-attr {
+  color: #008080;
+}
+
+.hljs-string,
+.hljs-doctag {
+  color: #d14;
+}
+
+.hljs-title,
+.hljs-section,
+.hljs-selector-id {
+  color: #900;
+  font-weight: bold;
+}
+
+.hljs-subst {
+  font-weight: normal;
+}
+
+.hljs-type,
+.hljs-class .hljs-title {
+  color: #458;
+  font-weight: bold;
+}
+
+.hljs-tag,
+.hljs-name,
+.hljs-attribute {
+  color: #000080;
+  font-weight: normal;
+}
+
+.hljs-regexp,
+.hljs-link {
+  color: #009926;
+}
+
+.hljs-symbol,
+.hljs-bullet {
+  color: #990073;
+}
+
+.hljs-built_in,
+.hljs-builtin-name {
+  color: #0086b3;
+}
+
+.hljs-meta {
+  color: #999;
+  font-weight: bold;
+}
+
+.hljs-deletion {
+  background: #fdd;
+}
+
+.hljs-addition {
+  background: #dfd;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}/* Written by Daisuke.M(2019-06-07) */
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+1p:300,400,700,&subset=japanese');
+@import url('https://fonts.googleapis.com/css?family=Quicksand:700');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+@import url("https://use.fontawesome.com/releases/v5.7.2/css/all.css");
+/* ---------- */
+@page{size: A4;margin: 30mm 20mm 20mm 20mm;}
+@media print {
+body::before{
+	content: "(株)日本設計 \A 環境・設備設計群"; 
+	position: absolute;
+	margin:0 0 3em 0;
+	top: 0;
+	right:0;
+	white-space: pre; 
+}
+}
+/* ---------- */
+body {
+	font-family:'Lato',"Noto Sans JP",sans-serif;
+	font-size:12pt;
+	color: #000;
+	line-height:1.3em;
+	width: 900px;
+	margin:0 auto;
+	background-color: #FFF;
+	padding: .7em;
+	font-weight: normal;
+	counter-reset: chapter;
+	counter-reset: sheet;
+	position: relative;
+}
+
+
+/* ---------- */
+hr {
+  border-top: 1px solid #309048;
+}
+
+/* ---------- */
+p {
+	line-height:1.5em;
+}
+
+/* ---------- */
+table {
+	border-collapse: collapse;
+	font-size: 0.85em;
+}
+table th,td {
+	padding:0 1em;
+}
+
+/* ---------- */
+h1 {
+	border-bottom: 8px solid #309048;
+	font-size: 250%;
+	color:#309048;
+	font-weight: bold;
+	font-style: normal;
+	padding: .35em 0;
+	margin: .75em 0;
+	display:inline-block;
+	counter-reset: chapter;
+}
+
+h2 {
+	font-size: 150%;
+	padding: .35em 0;
+	color:#309048;
+	margin:.5em 0;
+	font-weight: bold;
+	border-bottom: 1px solid #309048;
+	display:inline-block;
+	counter-reset: sub-chapter;
+}
+
+h2::before {
+  font-family: 'Quicksand', sans-serif;
+  counter-increment: chapter;
+  color: #309048;
+  font-weight: bold;
+  content: counter(chapter) ". ";
+}
+
+h3 {
+	font-size: 120%;
+	padding: .2em .4em;
+	margin:.5em 0;
+	background-color: #309048;
+    color:#fff;
+	counter-reset: sub-sub-chapter;
+}
+
+h3::before {
+  font-family: 'Quicksand', sans-serif;
+  counter-increment: sub-chapter;
+  color:#fff;
+  font-weight: bold;
+  content: counter(chapter) "-" counter(sub-chapter) ") ";
+}
+
+h4 {
+	font-size: 120%;
+	margin:.5em 0 .5em 2em;
+}
+
+h4::before {
+  font-family: 'Quicksand', sans-serif;
+  counter-increment: sub-sub-chapter;
+  color: #309048;
+  font-weight: bold;
+  content: counter(chapter) "-" counter(sub-chapter) "-" counter(sub-sub-chapter) ") ";
+}
+
+h5{
+	font-size: 105%;
+	font-weight: 700;
+	position: relative;
+	color: #d42314;
+	line-height: 1.4;
+	padding: 0 0 0 2em;
+	margin:.5em 0;
+}
+
+h5:before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f06a";
+  color: #d42314;
+  position: absolute;
+  left : 0.5em;
+}
+
+h6{
+	font-size: 105%;
+	color:#797774;
+	font-weight: 700;
+	position: relative;
+	line-height: 1.4;
+	padding: 0 0 0 5.5em;
+	background-color: #fcf0d2;
+	margin:.5em 0;
+}
+
+h6:before {
+  font-family: "Font Awesome 5 Free",'Quicksand',sans-serif;
+  color: #ed8733;
+  content: "\f0e7  NOTICE";
+  position: absolute;
+  left : 0.5em;
+}
+
+/* ---------- */
+img{
+	margin:10px 0;
+	display: block;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+em{
+	font-style: normal;
+	color: #d42314;
+	text-decoration:underline;
+	text-decoration-color:#ffd3d5;
+	font-weight: bold;
+}
+
+strong{
+	font-style: normal;
+	color: #ed8733;
+	background: linear-gradient(transparent 0%, #fcf0d2 0%);
+	font-weight: bold;
+}
+
+a{ color:#0063b1;text-decoration:underline;text-decoration-color:#cde5f7;outline:none;}
+
+a:visited { color:#0063b1;text-decoration:underline;text-decoration-color:#cde5f7;}
+
+a:hover{color:#9839a0;text-decoration:underline;text-decoration-color:#edd3ef;outline:none;}
+
+
+/* ブロック要素の装飾 */
+p, table, ul, ol, dl, pre, blockquote {
+	margin-left:4em;
+	ul, ol, dl {margin-left: 0px;}
+}
+
+ul{
+	padding-left: 0;
+	padding: 0 0 0 2.5em;
+	margin-top: 0;
+}
+
+ul li{
+	position: relative;
+	padding: 0.1em 0 0.1em 0;
+	list-style-type: disc;
+}
+
+ol li{
+	padding: 0.1em 0 0.1em 0;
+}
+
+
+table{
+	margin:15px auto;
+	font-size:100%;
+}
+
+th{
+	border:0.5px solid #000;
+	background-color: #e9e8e7;
+	font-weight: normal;
+	color: #000;
+	padding:.2em 1em;
+}
+
+td{
+	border:0.5px solid #000;
+	padding:.2em 1em;
+}
+
+tr{
+	border-left:hidden;
+	border-right:hidden;
+}
+
+blockquote p{
+	font-style: normal;
+	padding:0.8em 1.5em 0.5em 1.5em;
+	border: 1px solid #e9e8e7;
+	box-shadow: 3px 3px #e9e8e7;
+	background: #fff;
+	color: #797774;
+}
+
+pre,code{font:12px 'Consol',monospace;}
+pre {
+	margin:1em 0;
+	font-size:12px;
+	background-color:#eee;
+	border:1px solid #ddd;
+	padding:5px;
+	line-height:1.5em;
+	color:#444;
+	overflow:auto;
+	-webkit-box-shadow:rgba(0,0,0,0.07) 0 1px 2px inset;
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;border-radius:3px;
+}
+pre code {
+	padding:0;
+	font-size:12px;
+	background-color:#eee;
+	border:none;
+}
+code {
+	font-size:12px;
+	background-color:#f8f8ff;
+	color:#444;
+	padding:0 .2em;
+	border:1px solid #dedede;
+}
+
+abbr{border-bottom:none;}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  color: #333;
+  background: #f8f8f8;
+}
+
+.hljs-comment,
+.hljs-quote {
+  color: #998;
+  font-style: italic;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-subst {
+  color: #333;
+  font-weight: bold;
+}
+
+.hljs-number,
+.hljs-literal,
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag .hljs-attr {
+  color: #008080;
+}
+
+.hljs-string,
+.hljs-doctag {
+  color: #d14;
+}
+
+.hljs-title,
+.hljs-section,
+.hljs-selector-id {
+  color: #900;
+  font-weight: bold;
+}
+
+.hljs-subst {
+  font-weight: normal;
+}
+
+.hljs-type,
+.hljs-class .hljs-title {
+  color: #458;
+  font-weight: bold;
+}
+
+.hljs-tag,
+.hljs-name,
+.hljs-attribute {
+  color: #000080;
+  font-weight: normal;
+}
+
+.hljs-regexp,
+.hljs-link {
+  color: #009926;
+}
+
+.hljs-symbol,
+.hljs-bullet {
+  color: #990073;
+}
+
+.hljs-built_in,
+.hljs-builtin-name {
+  color: #0086b3;
+}
+
+.hljs-meta {
+  color: #999;
+  font-weight: bold;
+}
+
+.hljs-deletion {
+  background: #fdd;
+}
+
+.hljs-addition {
+  background: #dfd;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
