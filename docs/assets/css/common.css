@@ -52,10 +52,10 @@ h1 {
 	border-bottom: 8px solid #05bbd6;
 	font-size: 250%;
 	color: #05bbd6;
-	letter-spacing: 0.05em;
+	letter-spacing: 0.1em;
 	font-weight: bold;
 	font-style: normal;
-	padding: .1em 0;
+	padding: .05em 0;
 	margin: .5em 0;
 	display:inline-block;
 	counter-reset: chapter;
@@ -242,7 +242,7 @@ tr{
 
 blockquote p{
 	font-style: normal;
-	padding:0.8em 1.5em 0.5em 1.5em;
+	padding:0.3em 1em 0.3em 1em;
 	border: 1px solid #E0E0E0;
 	box-shadow: 3px 3px #E0E0E0;
 	background: #fff;
