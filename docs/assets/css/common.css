@@ -243,7 +243,7 @@ tr{
 
 blockquote p{
 	font-style: normal;
-	padding:0.3em 1em 0.3em 1em;
+	padding:0.45em 1.3em 0.45em 1.3em;
 	border: 1px solid #E0E0E0;
 	box-shadow: 3px 3px #E0E0E0;
 	background: #fff;
@@ -439,9 +439,7 @@ abbr{border-bottom:none;}
 	left: 0;
 	width: 100%;
 	background: #fff;
-	color: #000;
-	margin: 30px auto 0 auto;
-	text-align: center;
+	color: #fff;
 }
 
 #footer p#copyright{
@@ -452,5 +450,4 @@ abbr{border-bottom:none;}
 	background: -webkit-linear-gradient(to right, rgb(5, 187, 214), #0099e8);
 	background: linear-gradient(to right, rgb(5, 187, 214), #0099e8);
 	padding: 8px;
-	font-family:"lucida grande", tahoma, verdana, arial, sans-serif!important;
 }
