@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand:700');
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700');
 @import url("https://use.fontawesome.com/releases/v5.7.2/css/all.css");
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700'); 
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400'); 
 
 body {
 	font-family:'Lato',"Noto Sans JP",sans-serif;
@@ -440,12 +440,17 @@ abbr{border-bottom:none;}
 	width: 100%;
 	background: #fff;
 	color: #000;
-	margin: 45px auto 0 auto;
+	margin: 30px auto 0 auto;
 	text-align: center;
 }
 
 #footer p#copyright{
 	text-align: center;
+	font-size: 75%;
+	font-family:'Montserrat',sans-serif;
+	background: -moz-linear-gradient(to right, rgb(5, 187, 214), #0099e8);
+	background: -webkit-linear-gradient(to right, rgb(5, 187, 214), #0099e8);
+	background: linear-gradient(to right, rgb(5, 187, 214), #0099e8);
 	padding: 8px;
 	font-family:"lucida grande", tahoma, verdana, arial, sans-serif!important;
 }
