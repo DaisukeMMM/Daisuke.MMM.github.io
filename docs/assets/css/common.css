@@ -1,4 +1,4 @@
-/* Written by Daisuke.M(2019-06-07) */
+/* Written by Daisuke.M(2020-10-15) */
 @charset "utf-8";
 @import url('https://fonts.googleapis.com/css?family=M+PLUS+1p:300,400,700,&subset=japanese');
 @import url('https://fonts.googleapis.com/css?family=Quicksand:700');
@@ -9,7 +9,7 @@
 body {
 	font-family:'Lato',"Noto Sans JP",sans-serif;
 	font-size:12pt;
-	color: #000;
+	color: #4c4849;
 	line-height:1.3em;
 	width: 900px;
 	margin:0 auto;
@@ -29,7 +29,7 @@ hr {
 
 /* ---------- */
 p {
-	line-height:1.5em;
+	line-height:1.6em;
 }
 
 #notes{
@@ -47,25 +47,31 @@ table th,td {
 }
 
 /* ---------- */
+
+
+
+
 h1 {
-	border-bottom: 8px solid #309048;
+	border-bottom: 8px solid #05bbd6;
 	font-size: 250%;
-	color:#309048;
+	color: #05bbd6;
+	letter-spacing: 5px;
 	font-weight: bold;
 	font-style: normal;
 	padding: .35em 0;
-	margin: .75em 0;
+	margin: .5em 0;
 	display:inline-block;
 	counter-reset: chapter;
 }
 
+
 h2 {
 	font-size: 150%;
 	padding: .35em 0;
-	color:#309048;
-	margin:.5em 0;
+	color:#05bbd6;
+	margin:.4em 0;
 	font-weight: bold;
-	border-bottom: 1px solid #309048;
+	border-bottom: 1px solid #05bbd6;
 	display:inline-block;
 	counter-reset: sub-chapter;
 }
@@ -73,17 +79,23 @@ h2 {
 h2::before {
   font-family: 'Quicksand', sans-serif;
   counter-increment: chapter;
-  color: #309048;
+  color: #05bbd6;
   font-weight: bold;
   content: counter(chapter) ". ";
 }
 
 h3 {
 	font-size: 120%;
-	padding: .2em .4em;
+	text-shadow: 1.5px 2px 1.5px rgba(0,0,0,0.2);
+	background: -moz-linear-gradient(to right, rgb(5, 187, 214), #0099e8);
+	background: -webkit-linear-gradient(to right, rgb(5, 187, 214), #0099e8);
+	background: linear-gradient(to right, rgb(5, 187, 214), #0099e8);
+	position: relative;
+	padding: .2em .5em;
 	margin:.5em 0;
-	background-color: #309048;
-    color:#fff;
+	color:#fff;
+	font-weight: 700;
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.56);
 	counter-reset: sub-sub-chapter;
 }
 
@@ -103,7 +115,7 @@ h4 {
 h4::before {
   font-family: 'Quicksand', sans-serif;
   counter-increment: sub-sub-chapter;
-  color: #309048;
+  color: #05bbd6;
   font-weight: bold;
   content: counter(chapter) "-" counter(sub-chapter) "-" counter(sub-sub-chapter) ") ";
 }
@@ -156,17 +168,16 @@ img{
 
 em{
 	font-style: normal;
-	color: #d42314;
+	color: #ff0066;
 	text-decoration:underline;
-	text-decoration-color:#ffd3d5;
+	text-decoration-color:#ff0066;
 	font-weight: bold;
 }
 
 strong{
-	font-style: normal;
-	color: #ed8733;
-	background: linear-gradient(transparent 0%, #fcf0d2 0%);
-	font-weight: bold;
+       font-style: normal;
+	background: linear-gradient(transparent 60%, #fee445 0%);
+	font-weight: 900;
 }
 
 a{ color:#0063b1;text-decoration:underline;text-decoration-color:#cde5f7;outline:none;}
@@ -190,8 +201,18 @@ ul{
 
 ul li{
 	position: relative;
-	padding: 0.1em 0 0.1em 0;
-	list-style-type: disc;
+	padding: .4em 0 .4em 2.5em;
+	list-style-type: none!important;
+}
+
+ul li:before {
+	font-family: "Font Awesome 5 Free";
+	content: "\f042";
+	font-weight: 900;
+	position: absolute;
+	top: 0.5em;
+	left: 1em;
+	color: #309048;
 }
 
 ol li{
@@ -399,8 +420,8 @@ abbr{border-bottom:none;}
 	z-index: 2;
 	bottom: 0;
 	width: 100%;
-	background: #000;
-	color: #fff;
+	background: #fff;
+	color: #000;
 	margin-top: 45px;
 	text-align: center;
 }
