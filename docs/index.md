@@ -9,7 +9,7 @@
 グラフィック/WEBデザイン経験（フリーランス）｜応用情報技術者｜宅地建物取引士試験
 
 ### Paper
-* (『熱・光計算による昼光利用制御の性能評価に関する研究 第一報』)[https://www.jstage.jst.go.jp/article/shase/44/268/44_1/_article/-char/ja/]SHASE学術論文 2019.07
+* (『熱・光計算による昼光利用制御の性能評価に関する研究 第一報』)[https://www.jstage.jst.go.jp/article/shase/44/268/44_1/_article/-char/ja/] SHASE学術論文 2019.07
 
 ### Keyword
 数値解析/自動化/省エネ/デザイン/ナッジ/データサイエンス（統計）/可視化
