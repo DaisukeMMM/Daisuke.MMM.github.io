@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="description" content="PrMenu のデモでーす。">
+<title>PrMenu - jQuery Plugin Demo</title>
+<link type="text/css" rel="stylesheet" href="css/prmenu.css" />
+<style>
+body {
+  margin: 0;
+  padding: 0;
+}
+</style>
+ 
+</head>
+<body>
+<ul id="top-menu">
+  <li><a href="#">メニュー①</a></li>
+  <li><a href="#">メニュー②</a>
+    <ul>
+      <li><a href="#">アイテム</a></li>
+      <li><a href="#">アイテム</a>
+        <ul>
+          <li><a href="#">サブアイテム</a></li>
+          <li><a href="#">サブアイテム</a></li>
+          <li><a href="#">サブアイテム</a></li>
+        </ul>
+      </li>
+      <li><a href="#">アイテム</a></li>
+    </ul>
+  </li>
+  <li><a href="#">メニュー③</a></li>
+  <li><a href="#">メニュー④</a>
+    <ul>
+      <li><a href="#">アイテム</a></li>
+      <li><a href="#">アイテム</a>
+        <ul>
+          <li><a href="#">サブアイテム</a></li>
+          <li><a href="#">サブアイテム</a></li>
+          <li><a href="#">サブアイテム</a></li>
+        </ul>
+      </li>
+      <li><a href="#">アイテム</a></li>
+    </ul>
+  </li>
+  <li><a href="#">メニュー⑤</a></li>
+</ul>
+<h1>PrMenu のデモでーす。</h1>
+<p>ブラウザーの幅を縮めてみてください。</p>
+ 
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="jquery.prmenu.js"></script>
+<script>
+$(document).ready(function(){
+  $('#top-menu').prmenu();
+});
+</script>
+</body>
+</html>
