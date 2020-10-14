@@ -352,6 +352,28 @@ abbr{border-bottom:none;}
 
 /*-------------------------------------*/
 
+/* 浮動コンテンツのクリア */
+.clear{ display: block; clear:both; height:0;}
+
+
+/*//clearFix Coponents//*/
+.clear {clear:both;}
+.clearfix{ display:block;}
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+ }
+
+.clearfix:after {
+	content: url(pixel.gif);
+	display: block;
+	clear: both;
+	height: 0;
+}
 #wrapper{
 	margin: 0 auto;
 	text-align: left;
