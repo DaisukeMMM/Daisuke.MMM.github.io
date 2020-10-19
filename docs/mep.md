@@ -1,8 +1,7 @@
 # MEP（各種団体・基準・カタログ）
+環境・設備の役に立ちそうなものをおいておきます。
 
 ## 各種団体
-* []()
-* []()
 * [日本サステナブル協会](http://www.jsbc.or.jp/index.html)
 * [住宅性能評価・表示協会](https://www.hyoukakyoukai.or.jp/)
 * [建築設備コミッショニング協会](http://www.bsca.or.jp/)
@@ -20,9 +19,7 @@
 
 ## アカデミック
 * [日本の研究.com](https://research-er.jp/)
-* []()
-* []()
-* []()
+
 
 ## 海外
 * [venticool](https://venticool.eu/#)
