@@ -9,6 +9,9 @@
 ### ビルマル
 * [三菱電機](https://www.mitsubishielectric.co.jp/ldg/ja/air/guide/catalog/index.html)
 
+### EHP・モジュールチラー
+* [三菱電機](https://www.mitsubishielectric.co.jp/ldg/ja/air/guide/catalog/index.html)
+
 
 ### 冷却塔
 * [空研工業](https://www.kuken.com/catalog/)
