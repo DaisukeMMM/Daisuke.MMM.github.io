@@ -12,6 +12,9 @@
 ### 放射空調
 * [PS](https://ps-group.co.jp/download)
 
+### 産業用除湿機
+* [日立](http://www.hitachi-ap-catalog.com/fl3/sr-513r_01/html5.html#page=1)
+* [三菱電機](https://dl.mitsubishielectric.co.jp/dl/ldg/wink/wink_doc/contents/doc/WEB_CATA/RIP6963482A/data/target.pdf)
 
 ### コジェネレーションシステム
 * [ヤンマーエネルギーシステム](https://www.yanmar.com/jp/support/catalogs/energy.html)
