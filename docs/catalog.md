@@ -12,6 +12,12 @@
 ### EHP・モジュールチラー
 * [三菱電機](https://www.mitsubishielectric.co.jp/ldg/ja/air/guide/catalog/index.html)
 
+### 冷温水機
+* [荏原冷熱](http://www.ers.ebara.com/product/absorption-h/)
+* [Panasonic](https://panasonic.biz/appliance/air/nc/)
+
+### ターボ冷凍機
+* [三菱重工サーマルシステムズ](https://www.mhi-mth.co.jp/catalogue/list.html)
 
 ### 冷却塔
 * [空研工業](https://www.kuken.com/catalog/)
