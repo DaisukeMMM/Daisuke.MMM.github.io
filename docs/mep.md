@@ -1,5 +1,8 @@
-# MEP（各種団体・基準・カタログ）
+# MEP
 環境・設備の役に立ちそうなものをおいておきます。
+
+## 全般
+* [日刊建設工業新聞](https://www.decn.co.jp/)
 
 ## 各種団体
 * [日本サステナブル協会](http://www.jsbc.or.jp/index.html)
@@ -8,7 +11,6 @@
 * [環境展望台](https://tenbou.nies.go.jp/)
 * [JABMEE ZEBデータベース](https://zeb-database.jabmee.or.jp/jabmeezeb/landing)
 * [ヒートポンプ蓄熱センター](https://www.hptcj.or.jp/)
-
 * [環境共創イニシアチブ](https://sii.or.jp/)
 * [自立循環型住宅への設計ガイドライン](http://www.jjj-design.org/guideline/)
 
@@ -20,6 +22,9 @@
 
 ## アカデミック
 * [日本の研究.com](https://research-er.jp/)
+* [LaTex Template](http://www.latextemplates.com/)：とてもきれいなので書式の参考にするだけでも便利です。
+* [iTex2Img](http://www.sciweavers.org/free-online-latex-equation-editor)
+* [TexClip](https://texclip.marutank.net/)
 
 
 ## 海外
