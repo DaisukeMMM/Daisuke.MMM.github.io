@@ -6,7 +6,8 @@
 * [住宅性能評価・表示協会](https://www.hyoukakyoukai.or.jp/)
 * [建築設備コミッショニング協会](http://www.bsca.or.jp/)
 * [環境展望台](https://tenbou.nies.go.jp/)
-* [ZEBデータベース](https://zeb-database.jabmee.or.jp/jabmeezeb/landing)
+* [JABMEE ZEBデータベース](https://zeb-database.jabmee.or.jp/jabmeezeb/landing)
+* [ヒートポンプ蓄熱センター](https://www.hptcj.or.jp/)
 
 * [環境共創イニシアチブ](https://sii.or.jp/)
 * [自立循環型住宅への設計ガイドライン](http://www.jjj-design.org/guideline/)
