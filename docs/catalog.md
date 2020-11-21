@@ -22,6 +22,7 @@
 
 ### 冷却塔
 * [空研工業](https://www.kuken.com/catalog/)
+* [荏原冷熱](http://www.ers.ebara.com/product/absorption-h/)→[冷却塔の基礎知識](http://shinwa-coolingtower.com/material/m01.html)（荏原冷熱技術資料）
 
 ### 放射空調
 * [PS](https://ps-group.co.jp/download)
