@@ -32,3 +32,7 @@
 ## 海外
 * [venticool](https://venticool.eu/#)
 * [Whole Building Design Guide](https://www.wbdg.org/)
+
+## その他
+* [送料の虎](https://www.shipping.jp/)：荷物送るときに最安値を検索する。
+
