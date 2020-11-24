@@ -1,13 +1,16 @@
-# DaisukeMMM.note
+# .note
 研究データ・ちょっとしたTips等。Qiitaに最新の記事を更新しています。
 
+## Contents
+### Tips
+Qiitaに書くほどではないちょっとしたテクニック。
+* [Gmailの検索窓の使い方](tip201124.md)
 
-## Links
+### Links
 他の人にも役に立ちそうなものを下にまとめています。
 * [これから環境シミュレーションを始める人へ](envsim.md)
 * [MEP（各種団体・基準・カタログ）](mep.md)
 * [建築設備チートシート](cheatsheet.md)
-
 
 ## profile
 都内で建築設備設計の仕事をしています。
