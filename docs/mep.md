@@ -34,5 +34,6 @@
 * [Whole Building Design Guide](https://www.wbdg.org/)
 
 ## その他
+* [とほほのWWW入門](http://www.tohoho-web.com/www.htm)：だいたいの言語の仕様が調べられる、端的に本質を説明してくれるのでとても重宝。
 * [送料の虎](https://www.shipping.jp/)：荷物送るときに最安値を検索する。
 
