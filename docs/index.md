@@ -11,7 +11,7 @@ Qiitaに書くほどではないちょっとしたテクニック。
 * [これから環境シミュレーションを始める人へ](envsim.md)
 * [MEP（各種団体・基準）](mep.md)
 * [MEP（カタログ）](catalog.md)
-* [建築設備チートシート](cheatsheet.md)
+* [MEP（チートシート）](cheatsheet.md)
 * [発表用PPTなどで使える素材先](material.md)
 
 ## profile
