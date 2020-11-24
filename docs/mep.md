@@ -33,6 +33,11 @@
 * [venticool](https://venticool.eu/#)
 * [Whole Building Design Guide](https://www.wbdg.org/)
 
+## 地図系
+* [電子国土WEB](https://maps.gsi.go.jp/)：某有名マップだと権利関係がややこしいのでこちらが吉。
+* [ハザードマップ](https://disaportal.gsi.go.jp/index.html)：情報が電子化されていない場合には各自治体のほうを確認。
+* [日本道路交通情報](https://www.jartic.or.jp/)：高速道路の通行止め等の情報が5分おきに配信。
+
 ## その他
 * [とほほのWWW入門](http://www.tohoho-web.com/www.htm)：だいたいの言語の仕様が調べられる、端的に本質を説明してくれるのでとても重宝。
 * [送料の虎](https://www.shipping.jp/)：荷物送るときに最安値を検索する。
