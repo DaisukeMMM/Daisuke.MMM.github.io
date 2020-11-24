@@ -1,5 +1,5 @@
 # .note
-研究データ・ちょっとしたTips等。Qiitaに最新の記事を更新しています。
+研究データ・ちょっとしたTips等。[Qiita](https://qiita.com/Daisuke_MMM)に最新の記事を更新しています。
 
 ## Contents
 ### Tips
