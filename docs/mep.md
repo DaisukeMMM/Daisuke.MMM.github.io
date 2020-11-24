@@ -28,6 +28,7 @@
 * [Matcha](https://www.mathcha.io/)：数式・グラフ入りのドキュメントを作るエディタ、電気系だと使えそう。
 * [Demos](https://www.desmos.com/?lang=ja)：関数式から簡単にグラフを書けるので、関数の形をさっと知りたいときに便利。
 * [検定ツール](http://www.quantpsy.org/calc.htm)：別にこれでなくてもいいのですが、手軽なので。
+* [Diagrams](https://app.diagrams.net/)：簡単なUMLなどが書けます。
 
 ## 海外
 * [venticool](https://venticool.eu/#)
