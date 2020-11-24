@@ -14,6 +14,10 @@ Qiitaに書くほどではないちょっとしたテクニック。
 * [MEP（チートシート）](cheatsheet.md)
 * [発表用PPTなどで使える素材先](material.md)
 
+### HTH
+自分が過去に調べて時間のかかった調べもの、誰かの役に立てば幸いです。
+* [空気状態のエンタルピの概算式の根拠](http://mitchellt.com/2018/09/01/a-look-into-the-shorthand-formula-for-enthalpy.html)
+
 ## profile
 都内で建築設備設計の仕事をしています。
 
