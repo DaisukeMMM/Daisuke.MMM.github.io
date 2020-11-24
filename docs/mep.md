@@ -37,6 +37,7 @@
 * [電子国土WEB](https://maps.gsi.go.jp/)：某有名マップだと権利関係がややこしいのでこちらが吉。
 * [ハザードマップ](https://disaportal.gsi.go.jp/index.html)：情報が電子化されていない場合には各自治体のほうを確認。
 * [日本道路交通情報](https://www.jartic.or.jp/)：高速道路の通行止め等の情報が5分おきに配信。
+* [Windy](https://www.windy.com/?35.739,139.613,5)：リアルタイムの気象確認だと[Ventusky](https://www.ventusky.com/)もありますが、こちらのほうが見やすい気がします。
 
 ## その他
 * [とほほのWWW入門](http://www.tohoho-web.com/www.htm)：だいたいの言語の仕様が調べられる、端的に本質を説明してくれるのでとても重宝。
