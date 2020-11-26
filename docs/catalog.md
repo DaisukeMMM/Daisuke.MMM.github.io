@@ -30,6 +30,11 @@
 * [空研工業](https://www.kuken.com/catalog/)
 * [荏原冷熱](http://www.ers.ebara.com/product/absorption-h/)
 
+### ボイラ
+ボイラの方式の違いに関しては[こちら](https://www.maedatekkou.co.jp/boiler/kind/)（前田鉄工所）。
+* [サーモエナー](https://www.n-thermo.co.jp/products/)
+* [ヒラカワ](https://www.hirakawag.co.jp/products/)
+
 ### 放射空調
 * [PS](https://ps-group.co.jp/download)
 
