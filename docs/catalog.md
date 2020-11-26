@@ -20,7 +20,10 @@
 * [Panasonic](https://panasonic.biz/appliance/air/nc/)
 
 ### ターボ冷凍機
+* [荏原冷熱](http://www.ers.ebara.com/product/absorption-h/)
 * [三菱重工サーマルシステムズ](https://www.mhi-mth.co.jp/catalogue/list.html)
+* [東芝キャリア](https://www.toshiba-carrier.co.jp/products/industry/index_j.htm)
+* [川重冷熱工業](https://www.khi.co.jp/corp/kte/product/catalogue/)
 
 ### 冷却塔
 冷却塔の基礎知識に関しては[こちら](http://shinwa-coolingtower.com/material/m01.html)（荏原冷熱技術資料）。
@@ -31,7 +34,7 @@
 * [PS](https://ps-group.co.jp/download)
 
 ### 産業用除湿機
-* [日立](http://www.hitachi-ap-catalog.com/fl3/sr-513r_01/html5.html#page=1)
+* [日立グローバルライフソリューションズ](http://www.hitachi-ap-catalog.com/fl3/sr-513r_01/html5.html#page=1)
 * [三菱電機](https://dl.mitsubishielectric.co.jp/dl/ldg/wink/wink_doc/contents/doc/WEB_CATA/RIP6963482A/data/target.pdf)
 
 ### コジェネレーションシステム
