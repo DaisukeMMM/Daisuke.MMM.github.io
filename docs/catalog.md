@@ -24,6 +24,9 @@
 * [三菱重工サーマルシステムズ](https://www.mhi-mth.co.jp/catalogue/list.html)
 * [東芝キャリア](https://www.toshiba-carrier.co.jp/products/industry/index_j.htm)
 * [川重冷熱工業](https://www.khi.co.jp/corp/kte/product/catalogue/)
+* [日立グローバルライフソリューションズ（スクリュー冷凍機）](http://www.hitachi-ap-catalog.com/fl3/screw/html5.html#page=37)
+* [ダイキン](https://ec.daikinaircon.com/ecatalog/DKCC012/index.html)
+* [トレイン・ジャパン](https://www.jp.trane.com/commercial/asia-pacific/jp/ja/products/centrifugal.html)
 
 ### 冷却塔
 冷却塔の基礎知識に関しては[こちら](http://shinwa-coolingtower.com/material/m01.html)（荏原冷熱技術資料）。
