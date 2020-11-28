@@ -6,6 +6,7 @@
 ## Contents
 ### Tips
 Qiitaに書くほどではないちょっとしたテクニック。
+* [AutoCADエイリアス設定](tip201128.md)
 * [Googleサービス関連](tip201124.md)
 
 ### Links
