@@ -6,6 +6,7 @@
 ## Contents
 ### Tips
 Qiitaに書くほどではないちょっとしたテクニック。
+* [Windowsの導入時レジストリで設定する項目](tip201201.md)
 * [AutoCADエイリアス設定](tip201128.md)
 * [Googleサービス関連](tip201124.md)
 
