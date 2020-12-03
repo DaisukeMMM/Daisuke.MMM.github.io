@@ -6,6 +6,7 @@
 
 ## イラスト
 * [humanpictogram2.0](http://pictogram2.com/)
+* [シルエットデザイン](https://kage-design.com/)
 
 ## 配色
 * [HUE/360](https://hue360.herokuapp.com/)
