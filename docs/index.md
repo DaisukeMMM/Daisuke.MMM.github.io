@@ -21,6 +21,7 @@ Qiitaに書くほどではないちょっとしたテクニック。
 
 ### HTH
 自分が過去に調べて時間のかかった調べもの、誰かの役に立てば幸いです。
+* [OutlookのOFTとMSGの内部処理の違い](https://outlooklab.wordpress.com/2007/06/16/oft-%E3%81%A8-msg-%E3%81%8A%E3%82%88%E3%81%B3%E4%B8%8B%E6%9B%B8%E3%81%8D-%E3%81%AE%E9%81%95%E3%81%84/)
 * [圧縮性流体の圧損計算](https://chemesim.com/DPcalc.html#PSVPRV)
 * [空気状態のエンタルピの概算式の根拠](http://mitchellt.com/2018/09/01/a-look-into-the-shorthand-formula-for-enthalpy.html)
 
