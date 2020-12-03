@@ -2,6 +2,7 @@
 * [Jw_cad 設備設計情報室](https://jwcad.setsubit.com/design-doc/e-catalogue.html#prettyPhoto)
 * [配管材料の基礎知識](https://www.monotaro.com/s/pages/readingseries/haikankoujikisokouza/)
 * [空気線図プロット](https://www.techno-ryowa.co.jp/rrlab/)
+* [蒸気方式の基礎知識](https://www.tlv.com/ja/steam-info/steam-theory/steam-basis/1009steam/)
 
 ## 空調
 ### パッケージエアコン
