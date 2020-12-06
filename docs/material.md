@@ -1,8 +1,9 @@
 # デザイン素材集
 発表用のスライドやパブリッシュに使えるフリー素材のサイトをまとめています。
 
-## 背景素材
+## 画像素材
 * [BEIZ images](https://www.beiz.jp/)
+* [Pixeden](https://www.pixeden.com/)：2013年頃から更新は止まっていますが、素材自体は結構使える。
 
 ## イラスト
 * [humanpictogram2.0](http://pictogram2.com/)
