@@ -25,6 +25,7 @@
 * [LaTex Template](http://www.latextemplates.com/)：とてもきれいなので書式の参考にするだけでも便利です。
 * [iTex2Img](http://www.sciweavers.org/free-online-latex-equation-editor)
 * [TexClip](https://texclip.marutank.net/)
+* [tex image link generator](https://tex-image-link-generator.herokuapp.com/)
 * [Matcha](https://www.mathcha.io/)：数式・グラフ入りのドキュメントを作るエディタ、電気系だと使えそう。
 * [Demos](https://www.desmos.com/?lang=ja)：関数式から簡単にグラフを書けるので、関数の形をさっと知りたいときに便利。
 * [検定ツール](http://www.quantpsy.org/calc.htm)：別にこれでなくてもいいのですが、手軽なので。
