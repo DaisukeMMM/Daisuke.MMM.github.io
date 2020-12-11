@@ -34,6 +34,9 @@
 * [venticool](https://venticool.eu/#)
 * [Whole Building Design Guide](https://www.wbdg.org/)
 
+## 法規
+* [消防法ブログ](https://kurasiwoyutakani.com/)
+
 ## 地図系
 * [電子国土WEB](https://maps.gsi.go.jp/)：某有名マップだと権利関係がややこしいのでこちらが吉。
 * [ハザードマップ](https://disaportal.gsi.go.jp/index.html)：情報が電子化されていない場合には各自治体のほうを確認。
