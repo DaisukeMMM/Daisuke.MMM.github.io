@@ -157,6 +157,7 @@ h6:before {
 img{
 	margin:10px 0;
 	display: block;
+	max-width: 100%;
 	margin-left: auto;
 	margin-right: auto;
 }
