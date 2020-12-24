@@ -47,6 +47,7 @@
 ## コンピュータ
 * [とほほのWWW入門](http://www.tohoho-web.com/www.htm)：だいたいの言語の仕様が調べられる、端的に本質を説明してくれるのでとても重宝。
 * [教えて！Helpdesk!](http://office-qa.com/index.htm)：オンラインヘルプデスク！大体調べればオフィス系のトラブルは見つかります。
+* [XML Viewer](https://masa331.github.io/xml_fiddler/)
 
 ## その他
 * [送料の虎](https://www.shipping.jp/)：荷物送るときに最安値を検索する。
