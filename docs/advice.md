@@ -161,7 +161,7 @@
 * 機器と建築部分の離隔距離
 
 ## 消防設備
-* 設置の基準
+* [設置の基準](https://www.nohmi.co.jp/product/personal/new_learn/about_low/011.html)※能美防災HPより
 * 危険物施設用の消火設備
 * 危険物の類別と指定数量 指定可燃物(品名と数量)
 * 機器の配置
