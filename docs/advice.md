@@ -80,7 +80,8 @@
 * 配管系の試験・検査
 * 各種管類の伸び 配管の標準支持間隔
 
-## 給水設備
+## 給水設
+* 水道工事の時に必要となる申請(https://reform-market.com/water-etc/contents/water-supply-construction-application)
 * 建物種類別給水量時間人員
 * 建築物用途別使用水量・時間
 * 集合住宅タイプ別給水人口
