@@ -44,6 +44,7 @@
 
 ### 放射空調
 * [PS](https://ps-group.co.jp/download)
+* [インターセントラル](https://www.i-central.co.jp/)
 
 ### 産業用除湿機
 * [日立グローバルライフソリューションズ](http://www.hitachi-ap-catalog.com/fl3/sr-513r_01/html5.html#page=1)
