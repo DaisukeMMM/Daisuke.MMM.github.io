@@ -3,7 +3,8 @@
 * [配管材料の基礎知識](https://www.monotaro.com/s/pages/readingseries/haikankoujikisokouza/)
 * [空気線図プロット](https://www.techno-ryowa.co.jp/rrlab/)
 * [蒸気方式の基礎知識](https://www.tlv.com/ja/steam-info/steam-theory/steam-basis/1009steam/)
-* [自動制御の基礎知識](https://www.azbil.com/jp/corporate/pr/atoz/index.html)
+* [自動制御の基礎知識](https://www.azbil.com/jp/corporate/pr/atoz/index.html
+* [ファンモータの基礎知識](https://www.orientalmotor.co.jp/tech/reference/)
 
 
 ## 空調
