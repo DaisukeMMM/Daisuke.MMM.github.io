@@ -30,7 +30,9 @@
 
 
 ## others
-周辺知識を身に付けるのに役に立ったサイト。
+周辺知識を身に付けるのに役に立ったサイト
+* [統計・検定技術の基礎知識](https://ai-trend.jp/basic-study/#estimator)
+
 * [International Building Performance Simulation Association](https://www.ibpsa.us/)
 * [OfficeHack](https://office-hack.com/)
 * [3分間ネットワーキング](http://www5e.biglobe.ne.jp/%257Eaji/3min/)
