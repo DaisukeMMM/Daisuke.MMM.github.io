@@ -3,11 +3,12 @@
 本家特有のアルファベット分類は踏襲。
 
 ・[【参考】日本建設連合会）建築技術者向け設備工事ポイントシート](https://www.nikkenren.com/kenchiku/equipmentpoint/mokuji.html)
+・[排水ます・排水まわり工事イメージ](http://nihonhome.co.jp/blog/)
+・[建築各工事の流れ（東建）](https://www.token.co.jp/tochi_katsuyo/kenchiku_manu/index1.shtml)
+* [各種公式（マニング等）](http://ebw.eng-book.com/heishin/vfs/)
 
 ## 諸单位換算表
-* 10の整数乗倍の接頭語と記号
-* SI単位とメートル系単位比較
-* 物理化学定数並びに基礎数
+* [単位変換（CASIO）](https://keisan.casio.jp/menu/system/000000000360)
 
 ## 物質の諸性質
 * 冷媒の飽和蒸気温度・圧力
