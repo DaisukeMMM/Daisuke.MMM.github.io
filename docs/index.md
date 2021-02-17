@@ -1,12 +1,12 @@
 # .note
-研究データ・ちょっとしたTips等。[Qiita](https://qiita.com/Daisuke_MMM)に最新の記事を更新しています。
+研究データ・ちょっとしたTips等。
 
 自分用の備忘録的に書いています。
 
 ## Contents
-### o
-Qiitaに書くほどではないちょっとしたテクニック。
-* [点光
+### Qiita
+投稿した記事の中でも実務ですぐ役に立つ即効性の高いものをピックアップしています。ちなみに、[Qiita](https://qiita.com/Daisuke_MMM)に最新の記事を更新しています。
+* [Windowsでフォルダ分けして整理したファイルを１箇所にまとめたい](https://qiita.com/Daisuke_MMM/items/feaf2f3706a8f7ff6b49)
 
 ### Tips
 Qiitaに書くほどではないちょっとしたテクニック。
