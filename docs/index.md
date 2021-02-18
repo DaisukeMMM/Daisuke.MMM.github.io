@@ -24,12 +24,13 @@ Qiitaに書くほどではないちょっとしたテクニック。
 * [Googleサービス関連](tip201124.md)
 
 ### Links
-他の人にも役に立ちそうなものを下にまとめています。
+他の人にも役に立ちそうなものを下にまとめています
 * [これから環境シミュレーションを始める人へ](envsim.md)
 * [MEP（各種団体・基準）](mep.md)
 * [MEP（カタログ）](catalog.md)
 * [MEP（チートシート）](cheatsheet.md)
 * [発表用PPTなどで使える素材先](material.md)
+* [作業するときに流し見に便利なプレイリスト(YouTube)](https://youtube.com/playlist?list=PLRqKZhocpxhSClTDitT4kK3GXTxGS8wzm)
 
 ### HTH
 自分が過去に調べて時間のかかった調べもの、誰かの役に立てば幸いです。
