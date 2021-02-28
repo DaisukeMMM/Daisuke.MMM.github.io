@@ -21,6 +21,9 @@
 * [NounProject](https://thenounproject.com/)
 * [icons](https://icons8.jp/icons)
 
+## フォント
+* [デラゴシック](https://github.com/syakuzen/DelaGothic)：ラグランパンチみたいな迫力があって、かつ砕けすぎず使いやすい。
+
 ## 3Dテクスチャ
 * [3DAssets.one](https://www.3dassets.one/)
 
