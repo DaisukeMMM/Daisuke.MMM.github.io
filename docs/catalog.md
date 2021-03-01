@@ -56,6 +56,8 @@
 ### コジェネレーションシステム
 * [ヤンマーエネルギーシステム](https://www.yanmar.com/jp/support/catalogs/energy.html)
 
+### 吹出口
+* [空研工業](https://www.kuken.com/catalog/)
 
 ### 加湿器
 * [wetmaster](https://www.wetmaster.co.jp/download/)
