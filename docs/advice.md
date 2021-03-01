@@ -7,9 +7,12 @@
 ・[建築各工事の流れ（東建）](https://www.token.co.jp/tochi_katsuyo/kenchiku_manu/index1.shtml)
 * [各種公式（マニング等）](http://ebw.eng-book.com/heishin/vfs/)
 
+* [各種公式（マニング等）](https://www.city.osaka.lg.jp/toshikeikaku/page/0000021604.html)
+
+
 ## 諸单位換算表
 * [単位変換（CASIO）](https://keisan.casio.jp/menu/system/000000000360)
-
+* [CONVERT WORLD](https://www.convertworld.com/ja/)
 ## 物質の諸性質
 * 冷媒の飽和蒸気温度・圧力
 * 冷媒の利用範囲と安全性
