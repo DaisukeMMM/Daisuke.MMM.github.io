@@ -7,7 +7,7 @@
 ・[建築各工事の流れ（東建）](https://www.token.co.jp/tochi_katsuyo/kenchiku_manu/index1.shtml)
 * [各種公式（マニング等）](http://ebw.eng-book.com/heishin/vfs/)
 
-* [各種公式（マニング等）](https://www.city.osaka.lg.jp/toshikeikaku/page/0000021604.html)
+* [大阪市建築基準法取扱い要領）](https://www.city.osaka.lg.jp/toshikeikaku/page/0000021604.html)
 
 
 ## 諸单位換算表
