@@ -3,7 +3,6 @@
 
 ## 全般
 * [日刊建設工業新聞](https://www.decn.co.jp/)
-* [社会実情データ図録](https://honkawa2.sakura.ne.jp/index.html)：色んな社会データをグラフと考察セットでまとめられているので参考になります。
 
 ## 各種団体
 * [日本サステナブル協会](http://www.jsbc.or.jp/index.html)
@@ -21,6 +20,9 @@
 * [平成25年度省エネ基準 WEBPRO](https://www.kenken.go.jp/becc/index_h25.html)
 * [WEBPROによる非住宅計算の計算ロジック](https://webpro-nr.github.io/BESJP_EngineeringReference/index.html)
 
+## データベース
+* [社会実情データ図録](https://honkawa2.sakura.ne.jp/index.html)：色んな社会データをグラフと考察セットでまとめられているので参考になる。
+* [電力会社・電力使用状況](http://agora.ex.nii.ac.jp/earthquake/201103-eastjapan/energy/electrical-japan/usage/)：現在の国内の電力使用状況が確認できる。
 ## アカデミック
 * [日本の研究.com](https://research-er.jp/)
 * [LaTex Template](http://www.latextemplates.com/)：とてもきれいなので書式の参考にするだけでも便利です。
