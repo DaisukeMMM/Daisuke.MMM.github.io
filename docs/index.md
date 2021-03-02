@@ -25,18 +25,11 @@ Qiitaに書くほどではないちょっとしたテクニック。
 
 ### Links
 他の人にも役に立ちそうなものを下にまとめています
-* [これから環境シミュレーションを始める人へ](envsim.md)
 * [MEP（各種団体・基準）](mep.md)
 * [MEP（カタログ）](catalog.md)
 * [MEP（チートシート）](cheatsheet.md)
 * [発表用PPTなどで使える素材先](material.md)
 * [作業するときに流し見に便利なプレイリスト(YouTube)](https://youtube.com/playlist?list=PLRqKZhocpxhSClTDitT4kK3GXTxGS8wzm)
-
-### HTH
-自分が過去に調べて時間のかかった調べもの、誰かの役に立てば幸いです。
-* [OutlookのOFTとMSGの内部処理の違い](https://outlooklab.wordpress.com/2007/06/16/oft-%E3%81%A8-msg-%E3%81%8A%E3%82%88%E3%81%B3%E4%B8%8B%E6%9B%B8%E3%81%8D-%E3%81%AE%E9%81%95%E3%81%84/)
-* [圧縮性流体の圧損計算](https://chemesim.com/DPcalc.html#PSVPRV)
-* [空気状態のエンタルピの概算式の根拠](http://mitchellt.com/2018/09/01/a-look-into-the-shorthand-formula-for-enthalpy.html)
 
 ## profile
 都内で建築設備設計の仕事をしています。
