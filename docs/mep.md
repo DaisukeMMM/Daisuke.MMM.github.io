@@ -74,6 +74,8 @@
 * [OpenStudio公式マニュアル](https://nrel.github.io/OpenStudio-user-documentation/)
 * [EnergyPlusサポート先](https://bigladdersoftware.com/projects/energyplus/index.html)
 * [Unmet](https://unmethours.com/questions/)
+* [化学工学の備忘録](https://chemesim.com/index.htm)
+* [mitchpaulus](https://mitchellt.com/)：たぶんアメリカの空調エンジニアの方のブログ？なのですが面白いです。
 
 ### 風環境シミュレーション
 * [NEDO局所風況マップ](http://app8.infoc.nedo.go.jp/nedo/)
