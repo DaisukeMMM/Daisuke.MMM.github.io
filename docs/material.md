@@ -4,6 +4,7 @@
 ## 画像素材
 * [BEIZ images](https://www.beiz.jp/)
 * [Pixeden](https://www.pixeden.com/)：2013年頃から更新は止まっていますが、素材自体は結構使える。
+* [GIPHY](https://giphy.com/)：LINEなどで引っ張って来ているGIFはこのサイトから引っ張ってきてます。
 
 ## イラスト
 * [humanpictogram2.0](http://pictogram2.com/)
