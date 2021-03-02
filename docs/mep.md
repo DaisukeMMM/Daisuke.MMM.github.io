@@ -3,7 +3,7 @@
 
 ## 全般
 * [日刊建設工業新聞](https://www.decn.co.jp/)
-* [社会実情データ図録](https://honkawa2.sakura.ne.jp/index.html)
+* [社会実情データ図録](https://honkawa2.sakura.ne.jp/index.html)：色んな社会データをグラフと考察セットでまとめられているので参考になります。
 
 ## 各種団体
 * [日本サステナブル協会](http://www.jsbc.or.jp/index.html)
