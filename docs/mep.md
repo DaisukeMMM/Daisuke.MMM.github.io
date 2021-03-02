@@ -23,6 +23,7 @@
 ## データベース
 * [社会実情データ図録](https://honkawa2.sakura.ne.jp/index.html)：色んな社会データをグラフと考察セットでまとめられているので参考になる。
 * [電力会社・電力使用状況](http://agora.ex.nii.ac.jp/earthquake/201103-eastjapan/energy/electrical-japan/usage/)：現在の国内の電力使用状況が確認できる。
+* 
 ## アカデミック
 * [日本の研究.com](https://research-er.jp/)
 * [LaTex Template](http://www.latextemplates.com/)：とてもきれいなので書式の参考にするだけでも便利です。
@@ -53,7 +54,48 @@
 * [教えて！Helpdesk!](http://office-qa.com/index.htm)：オンラインヘルプデスク！大体調べればオフィス系のトラブルは見つかります。
 * [XML Viewer](https://masa331.github.io/xml_fiddler/)
 * [無料で読める情報系の解説書（github awesome listより）](https://github.com/topics/awesome)
+* [OfficeHack](https://office-hack.com/)
+* [3分間ネットワーキング](http://www5e.biglobe.ne.jp/%257Eaji/3min/)
+* [正規表現メモ](http://www.kt.rim.or.jp/~kbk/regex/regex.html)
+* [PENGUINITIS](http://penguinitis.g1.xrea.com/)
+* [Office TANAKA](http://officetanaka.net/index.stm)
 
 ## その他
 * [送料の虎](https://www.shipping.jp/)：荷物送るときに最安値を検索する。
+
+## 環境シミュレーション
+### 気象データ
+* [EPW気象データダウンロード元](https://energyplus.net/weather)：米国できちんと観測所で計測したデータ。
+* [拡張アメダス気象データの技術資料](https://www.metds.co.jp/documents/ea/)
+* [ClimateConsultantダウンロード元](http://www.energy-design-tools.aud.ucla.edu/)
+
+### 熱・エネルギーシミュレーション
+* [EnergyPlus](https://energyplus.net/)
+* [OpenStudio公式マニュアル](https://nrel.github.io/OpenStudio-user-documentation/)
+* [EnergyPlusサポート先](https://bigladdersoftware.com/projects/energyplus/index.html)
+* [Unmet](https://unmethours.com/questions/)
+
+### 風環境シミュレーション
+* [NEDO局所風況マップ](http://app8.infoc.nedo.go.jp/nedo/)
+* [NETS](http://www.nets-club.com/index.htm)
+
+### 光環境シミュレーション
+* [Radiance日本語解説サイト](https://arch.xtr.jp/radiance/frame.htm)
+* [大分大学 環境研究室](http://www.arch.oita-u.ac.jp/env/)：CIE標準天空モデルやAll Sky Modelの輝度分布モデルをブラウザで見れるので重宝しています。
+* [CIE Sky Generator](http://andrewmarsh.com/software/cie-sky-web/)：こちらも同様に天空モデルをブラウザで見ることができます。Sky Patchに分割されていますね。
+* [和歌山大学床井研究室](http://marina.sys.wakayama-u.ac.jp/~tokoi/oglarticles.html) ：光環境シミュレーションはかなりCG技術と密接なのでとても参考になります。
+* [Wgld.org](https://wgld.org/)：同上の理由でここに載せていますが、こちらはOpenGLなどの解説がメインです。
+* [SolarGIS](https://solargis.com/)
+
+### 設備システムシミュレーション
+* [Popolo（富樫先生）](http://www.hvacsimulator.net/)
+* [BACpypes](http://bacpypes.sourceforge.net/)
+* [AndrewMarsh Blog（Ecotect開発者）](http://andrewmarsh.com/)
+
+* [International Building Performance Simulation Association](https://www.ibpsa.us/)
+* [Dynamoフォーラム](https://forum.dynamobim.com/)
+* [RevitAPIドキュメント](https://www.revitapidocs.com/)
+* [Grasshopper Docs](https://grasshopperdocs.com/)
+* [Grasshopper標準コンポーネントの詳しい解説](https://www.applicraft.com/ghcp_index/)
+* [DesignExplorer](http://tt-acm.github.io/DesignExplorer/)
 
