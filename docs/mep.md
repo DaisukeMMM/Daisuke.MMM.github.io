@@ -46,10 +46,10 @@
 * [Windy](https://www.windy.com/?35.739,139.613,5)：リアルタイムの気象確認だと[Ventusky](https://www.ventusky.com/)もありますが、こちらのほうが見やすい気がします。
 
 ## コンピュータ
+* [広告ブロック](https://wikiwiki.jp/nanj-adguard/)：地味なことですけどインターネットなしではどうにもならない時代には真っ先に設定すべきものですね。
 * [とほほのWWW入門](http://www.tohoho-web.com/www.htm)：だいたいの言語の仕様が調べられる、端的に本質を説明してくれるのでとても重宝。
 * [教えて！Helpdesk!](http://office-qa.com/index.htm)：オンラインヘルプデスク！大体調べればオフィス系のトラブルは見つかります。
 * [XML Viewer](https://masa331.github.io/xml_fiddler/)
-
 * [無料で読める情報系の解説書（github awesome listより）](https://github.com/topics/awesome)
 
 ## その他
