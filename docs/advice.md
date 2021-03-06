@@ -1,7 +1,10 @@
-# 消防・空調・衛生MYadvice
+# MEP MY advice
 空調・衛生adviceが絶版となってしまったし、書籍をPDF化しても結局データがどんどん更新していってしまうので本家のadviceの目次を参考にリンク集を作ってしまえばいいのでは？と思い作っています。
 本家特有のアルファベット分類は踏襲。
 
+* [各種公式（マニング等）](http://ebw.eng-book.com/heishin/vfs/)
+* [単位変換（CASIO）](https://keisan.casio.jp/menu/system/000000000360)
+* [CONVERT WORLD](https://www.convertworld.com/ja/)
 
 
 # 建築設備に効くチートシート
@@ -16,8 +19,7 @@
 * 1J = *4.186* cal
 * 1USRT = *3.516* kwh
 
-* [単位変換（CASIO）](https://keisan.casio.jp/menu/system/000000000360)
-* [CONVERT WORLD](https://www.convertworld.com/ja/)
+
 
 ## A_基礎知識
 まず役に立ちそうな基礎知識全般。
@@ -41,7 +43,7 @@
 ・[【参考】日本建設連合会）建築技術者向け設備工事ポイントシート](https://www.nikkenren.com/kenchiku/equipmentpoint/mokuji.html)
 ・[排水ます・排水まわり工事イメージ](http://nihonhome.co.jp/blog/)
 ・[建築各工事の流れ（東建）](https://www.token.co.jp/tochi_katsuyo/kenchiku_manu/index1.shtml)
-* [各種公式（マニング等）](http://ebw.eng-book.com/heishin/vfs/)
+
 
 * [大阪市建築基準法取扱い要領](https://www.city.osaka.lg.jp/toshikeikaku/page/0000021604.htm
 * [EchoLand-plus. 冷凍機械責任者試験対策](http://www.echoland-plus.com/index.html)
