@@ -2,17 +2,54 @@
 空調・衛生adviceが絶版となってしまったし、書籍をPDF化しても結局データがどんどん更新していってしまうので本家のadviceの目次を参考にリンク集を作ってしまえばいいのでは？と思い作っています。
 本家特有のアルファベット分類は踏襲。
 
+
+
+# 建築設備に効くチートシート
+デジタルのこの時代になかなか手帳の後ろについてる早見表をのために紙を持ち歩きたくないので作りました。
+
+## 物性値
+* 乾き空気：密度*1.2*kg/m3、比熱*1.006*kJ/kg・K
+* 水の融解熱：*334*kJ/kg
+* 水の蒸発熱：*2257*kJ/kg
+
+## 熱量の換算
+* 1J = *4.186* cal
+* 1USRT = *3.516* kwh
+
+* [単位変換（CASIO）](https://keisan.casio.jp/menu/system/000000000360)
+* [CONVERT WORLD](https://www.convertworld.com/ja/)
+
+## A_基礎知識
+まず役に立ちそうな基礎知識全般。
+
+* 建築設備関連法規
+* 事前調査
+* 事前協議
+* 建築確認申請の流れ
+* 防災性能評価
+* 消防防災システム評価
+* その他官庁諸届けの流れ
+* 建築設備に関わる資格
+* シックハウス法規制
+* 省エネルギー法
+* ハートビル法
+* CASBEE
+
+* 
+* 
+* 
 ・[【参考】日本建設連合会）建築技術者向け設備工事ポイントシート](https://www.nikkenren.com/kenchiku/equipmentpoint/mokuji.html)
 ・[排水ます・排水まわり工事イメージ](http://nihonhome.co.jp/blog/)
 ・[建築各工事の流れ（東建）](https://www.token.co.jp/tochi_katsuyo/kenchiku_manu/index1.shtml)
 * [各種公式（マニング等）](http://ebw.eng-book.com/heishin/vfs/)
 
-* [大阪市建築基準法取扱い要領）](https://www.city.osaka.lg.jp/toshikeikaku/page/0000021604.html)
+* [大阪市建築基準法取扱い要領](https://www.city.osaka.lg.jp/toshikeikaku/page/0000021604.htm
+* [EchoLand-plus. 冷凍機械責任者試験対策](http://www.echoland-plus.com/index.html)
+* [建築設備耐震基準](http://www.shasej.org/gakkaishi/0704/kouza.pdf)
 
 
-## 諸单位換算表
-* [単位変換（CASIO）](https://keisan.casio.jp/menu/system/000000000360)
-* [CONVERT WORLD](https://www.convertworld.com/ja/)
+
+
 ## 物質の諸性質
 * 冷媒の飽和蒸気温度・圧力
 * 冷媒の利用範囲と安全性
@@ -485,20 +522,7 @@
 * 膨張タンク寸法表
 * 密閉式膨張タンク性能寸法表
 
-## 【A】基礎知識
-* 建築設備関連法規
-* 事前調査
-* 事前協議
-* 建築確認申請の流れ
-* 防災性能評価
-* 消防防災システム評価
-* その他官庁諸届けの流れ
-* 建築設備に関わる資格
-* シックハウス法規制
-* 省エネルギー法
-* ハートビル法
-* CASBEE
-* 設備耐震基準
+
 
 ## 【B】空調設備
 ### 空調・換気設備
