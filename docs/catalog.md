@@ -11,6 +11,7 @@
 ### パッケージエアコン
 室内機の種類を調べるには[こちら](https://kucho-ex.com/)（テクノ菱和）。
 * [三菱電機](https://www.mitsubishielectric.co.jp/ldg/ja/air/guide/catalog/index.html)
+* [木村工機](https://www.kimukoh.co.jp/catalog/)
 
 ### ビルマル
 * [三菱電機](https://www.mitsubishielectric.co.jp/ldg/ja/air/guide/catalog/index.html)
