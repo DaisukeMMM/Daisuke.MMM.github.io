@@ -44,7 +44,8 @@
 
 * [大阪市建築基準法取扱い要領](https://www.city.osaka.lg.jp/toshikeikaku/page/0000021604.htm
 * [EchoLand-plus. 冷凍機械責任者試験対策](http://www.echoland-plus.com/index.html)
-* [建築設備耐震基準](http://www.shasej.org/gakkaishi/0704/kouza.pdf)
+* [ビルメンテナンス](http://www.fukuoka-bma.jp/%e3%83%93%e3%83%ab%e3%81%ae%e7%9c%81%e3%82%a8%e3%83%8d%e6%8c%87%e5%8d%97%e6%9b%b8-%e3%80%80%e3%81%9d%e3%81%ae%ef%bc%91/)：福岡県ビルメンテナンス協会
+* [設備機器の耐震基準](http://www.shasej.org/gakkaishi/0704/kouza.pdf)
 
 
 
