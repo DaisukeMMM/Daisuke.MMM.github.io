@@ -6,6 +6,7 @@
 * [O-dan](https://o-dan.net/ja/)：日本語で複数のサイトを横断して画像素材を検索できる。
 * [Pixeden](https://www.pixeden.com/)：2013年頃から更新は止まっていますが、素材自体は結構使える。
 * [GIPHY](https://giphy.com/)：LINEなどで引っ張って来ているGIFはこのサイトから引っ張ってきてます。
+* [Repper](https://repper.app/)：パターン柄を作れるサービス。
 
 ## イラスト
 * [humanpictogram2.0](http://pictogram2.com/)
