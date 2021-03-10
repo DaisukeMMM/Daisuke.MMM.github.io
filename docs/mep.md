@@ -44,6 +44,7 @@
 
 ## 地図系
 * [電子国土WEB](https://maps.gsi.go.jp/)：某有名マップだと権利関係がややこしいのでこちらが吉。
+* [気象庁天気・防災分布](https://www.jma.go.jp/bosai/#pattern=default)：全国のアメダスに基づく予報や過去の地震の記録などが閲覧可能。
 * [ハザードマップ](https://disaportal.gsi.go.jp/index.html)：情報が電子化されていない場合には各自治体のほうを確認。
 * [日本道路交通情報](https://www.jartic.or.jp/)：高速道路の通行止め等の情報が5分おきに配信。
 * [Windy](https://www.windy.com/?35.739,139.613,5)：リアルタイムの気象確認だと[Ventusky](https://www.ventusky.com/)もありますが、こちらのほうが見やすい気がします。
