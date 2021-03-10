@@ -6,7 +6,7 @@
 
 
 * [各種公式（マニング等）](http://ebw.eng-book.com/heishin/vfs/)
-* 騒音レベル計算：[点音源値自明の時](https://keisan.casio.jp/exec/user/1615367319)[点音源値不明の時](https://keisan.casio.jp/exec/user/1615366324)
+* 騒音レベル計算：[点音源値自明の時](https://keisan.casio.jp/exec/user/1615367319)｜[点音源値不明の時](https://keisan.casio.jp/exec/user/1615366324)
 * [CONVERT WORLD](https://www.convertworld.com/ja/)
 
 ### 物性値
