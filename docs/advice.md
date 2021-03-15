@@ -18,6 +18,10 @@
 * 1J = *4.186* cal
 * 1USRT = *3.516* kwh
 
+### 面積の換算
+* 1坪 = *0.3025* m2
+
+
 ## A_基礎知識
 まず役に立ちそうな基礎知識全般。
 
@@ -34,9 +38,16 @@
 * ハートビル法
 * CASBEE
 
-* 
-* 
-* 
+## 災害対策
+### 火事などの閉じ込めに対する「避難」対策
+避難対策の仕様規定・性能規定の違い（ルートによる違い）は[この通り](https://www.izumi-bousai.jp/about/)。
+* 地上から遠い位置から逃げるための[特別避難階段](https://syoubou123.com/2019/01/tokubetu-hinankaidan-toha/)
+* 建築基準法と消防法両睨みする必要がある[排煙設備](https://archilink.jp/fluegas-facility)の概要。[設置基準](http://www.teral.info/pdf/t_catalog/2876/file.pdf)もそうだが、設備の場合ダクトやファンなどが火事の最中に[所定性能](https://www.mitsuyaj.co.jp/dcms_media/other/mitsuyafan-technote.pdf)を担保できることが大切。
+
+### 地震の揺れによる「崩壊」対策
+* [設備機器の耐震基準](http://www.shasej.org/gakkaishi/0704/kouza.pdf)
+
+
 ・[【参考】日本建設連合会）建築技術者向け設備工事ポイントシート](https://www.nikkenren.com/kenchiku/equipmentpoint/mokuji.html)
 ・[排水ます・排水まわり工事イメージ](http://nihonhome.co.jp/blog/)
 ・[建築各工事の流れ（東建）](https://www.token.co.jp/tochi_katsuyo/kenchiku_manu/index1.shtml)
@@ -45,14 +56,117 @@
 * [大阪市建築基準法取扱い要領](https://www.city.osaka.lg.jp/toshikeikaku/page/0000021604.htm
 * [EchoLand-plus. 冷凍機械責任者試験対策](http://www.echoland-plus.com/index.html)
 * [オフィスビルの省エネ化とビルメンテナンス](http://www.fukuoka-bma.jp/%e3%83%93%e3%83%ab%e3%81%ae%e7%9c%81%e3%82%a8%e3%83%8d%e6%8c%87%e5%8d%97%e6%9b%b8-%e3%80%80%e3%81%9d%e3%81%ae%ef%bc%91/)：福岡県ビルメンテナンス協会
-* [設備機器の耐震基準](http://www.shasej.org/gakkaishi/0704/kouza.pdf)
+
+### 原動機
+設備機器はほとんどエネルギーを原動機に投じて仕事をさせる。
+
+* 空気を送る[ファンモータ](https://www.orientalmotor.co.jp/tech/reference/)の性質。
+
+### 配管
+* [配管の材料による違い](https://www.monotaro.com/s/pages/readingseries/haikankoujikisokouza/)は使用できる圧力や中を通る液体や気体の特性を考慮して選ぶ必要がある。
+* [SUS管](http://www.jssa.gr.jp/contents/about_stainless/key_properties/types/)はその配合によって腐食耐性や脆性などが異なる。
+
+
+* [空気線図](https://www.techno-ryowa.co.jp/rrlab/)
+
+
+### 制御
+* [自動制御の専門用語](https://www.azbil.com/jp/corporate/pr/atoz/index.html)
 
 ## 空調
 ### 熱負荷計算
-* [人体発熱](https://www.jstage.jst.go.jp/article/aijax/451/0/451_KJ00004077375/_pdf)
+* [熱負荷計算書](https://yunotebook.com/kutyo-netsukeisan/)は内部発熱として、[人体発熱](https://www.jstage.jst.go.jp/article/aijax/451/0/451_KJ00004077375/_pdf)を考慮する。
+
+* [蒸気方式の基礎知識](https://www.tlv.com/ja/steam-info/steam-theory/steam-basis/1009steam/)
+
+
+## 換気
+* [電気室など特別室の換気回数](http://tkkankyo.eng.niigata-u.ac.jp/HASS/6.html)
+
+### パッケージエアコン
+室内機の種類を調べるには[こちら](https://kucho-ex.com/)（テクノ菱和）。
+* [三菱電機](https://www.mitsubishielectric.co.jp/ldg/ja/air/guide/catalog/index.html)
+* [木村工機](https://www.kimukoh.co.jp/catalog/)
+
+### ビルマル
+* [三菱電機](https://www.mitsubishielectric.co.jp/ldg/ja/air/guide/catalog/index.html)
+* [ダイキン](https://ec.daikinaircon.com/ecatalog/index.html)
+
+### EHP・モジュールチラー
+* [三菱電機](https://www.mitsubishielectric.co.jp/ldg/ja/air/guide/catalog/index.html)
+
+### 冷温水機
+* [荏原冷熱](http://www.ers.ebara.com/product/absorption-h/)
+* [Panasonic](https://panasonic.biz/appliance/air/nc/)
+
+### ターボ冷凍機
+* [荏原冷熱](http://www.ers.ebara.com/product/absorption-h/)
+* [三菱重工サーマルシステムズ](https://www.mhi-mth.co.jp/catalogue/list.html)
+* [東芝キャリア](https://www.toshiba-carrier.co.jp/products/industry/index_j.htm)
+* [川重冷熱工業](https://www.khi.co.jp/corp/kte/product/catalogue/)
+* [日立グローバルライフソリューションズ（スクリュー冷凍機）](http://www.hitachi-ap-catalog.com/fl3/screw/html5.html#page=37)
+* [ダイキン](https://ec.daikinaircon.com/ecatalog/DKCC012/index.html)
+* [トレイン・ジャパン](https://www.jp.trane.com/commercial/asia-pacific/jp/ja/products/centrifugal.html)
+
+### 冷却塔
+冷却塔の基礎知識に関しては[こちら](http://shinwa-coolingtower.com/material/m01.html)（荏原冷熱技術資料）。
+* [空研工業](https://www.kuken.com/catalog/)
+* [荏原冷熱](http://www.ers.ebara.com/product/absorption-h/)
+* [神鋼環境ソリューション](https://www.kobelco-eco.co.jp/product/cooling_tower/)
+
+
+### ボイラ
+ボイラの方式の違いに関しては[こちら](https://www.maedatekkou.co.jp/boiler/kind/)（前田鉄工所）。
+* [サーモエナー](https://www.n-thermo.co.jp/products/)｜ [ヒラカワ](https://www.hirakawag.co.jp/products/)｜[昭和鉄工](https://www.showa.co.jp/data_download/catalog/heat.html)
+
+### 放射空調
+* [PS](https://ps-group.co.jp/download)
+* [インターセントラル](https://www.i-central.co.jp/)
+
+### 産業用除湿機
+* [日立グローバルライフソリューションズ](http://www.hitachi-ap-catalog.com/fl3/sr-513r_01/html5.html#page=1)
+* [三菱電機](https://dl.mitsubishielectric.co.jp/dl/ldg/wink/wink_doc/contents/doc/WEB_CATA/RIP6963482A/data/target.pdf)
+
+### コジェネレーションシステム
+* [ヤンマーエネルギーシステム](https://www.yanmar.com/jp/support/catalogs/energy.html)
+
+### 吹出口
+* [空研工業](https://www.kuken.com/catalog/)
+
+### 加湿器
+* [wetmaster](https://www.wetmaster.co.jp/download/)
+
+### フィルタ
+* [日本無機](https://www.nipponmuki.co.jp/catalog.html)
+
+### ミスト
+* [Panasonic](https://panasonic.biz/appliance/green-ac/)
+
+
 
 ## 衛生
-気温度・圧力
+### 給水
+* 建物で必要な水量は主に1日の使用量を原単位から求め、[所定の計算方法](http://www.teral.info/pdf/t_catalog/356/file.pdf)で求めます。
+
+### 排水
+易しい[用語集](http://www.shincoo.com/shincoo/content/m044haisui-jitenn.html)があるので一読してから進めたい。特にこの分野は水理学者の名前が式名についていることも多く、[これ](http://library.jsce.or.jp/jsce/open/00027/1983/19-A06.pdf)も呼んでおくとよい。
+
+#### 汚水
+* 排水の*自然流下の場合*には[マニングの式](http://ebw.eng-book.com/heishin/MeanFlowVelocityFormula_manning_formula_book.do?category=manning_formula)を利用して流速・流量を計算する、ただし宅内の配管材と屋外の管渠では係数等が異なるので注意が必要。
+* 
+* 地下など自然流下不可で、排水槽を設ける際の[注意点](https://www.gesui.metro.tokyo.lg.jp/contractor/pdf/41ccb1e759ec246374824ae10331a7e92a70595a.pdf)
+
+#### 雨水
+* 雨水の排水竪管はワイリーイートンの式に基づいて[SHASE学会基準でほぼ決まっています](https://www.chubu-net.co.jp/kenzai/pdf/D01.pdf)。
+* 
+
+
+### 消防
+* 自火報（自動火災報知器）の[種類・設置基準](https://electric-facilities.jp/denki9/kanchiki.html)
+* また自火報によって感知したことを知らせる[地区音響装置の設置基準](https://www.minakami.co.jp/sekoukijun/design13.htm)
+
+### ガス
+
 
 ## 環境
 気温度・圧力
