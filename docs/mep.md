@@ -65,6 +65,7 @@
 
 ## その他
 * [送料の虎](https://www.shipping.jp/)：荷物送るときに最安値を検索する。
+* [Jw_CAD設備設計情報室](https://jwcad.setsubit.com/)：エルボなどのJw-CAD設備パーツ。
 
 ## 環境シミュレーション
 ### 気象データ
