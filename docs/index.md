@@ -26,7 +26,6 @@ Qiitaに書くほどではないちょっとしたテクニック。
 ### Links
 他の人にも役に立ちそうなものを下にまとめています
 * [MEP（各種団体・基準）](mep.md)
-* [MEP（カタログ）](catalog.md)
 * [MEP（設備設計のための辞書的リンク集）](advice.md)
 * [発表用PPTなどで使える素材先](material.md)
 * [作業するときに流し見に便利なプレイリスト(YouTube)](https://youtube.com/playlist?list=PLRqKZhocpxhSClTDitT4kK3GXTxGS8wzm)
