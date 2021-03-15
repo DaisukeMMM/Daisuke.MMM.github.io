@@ -100,13 +100,7 @@
 * [Panasonic](https://panasonic.biz/appliance/air/nc/)
 
 ### ターボ冷凍機
-* [荏原冷熱](http://www.ers.ebara.com/product/absorption-h/)
-* [三菱重工サーマルシステムズ](https://www.mhi-mth.co.jp/catalogue/list.html)
-* [東芝キャリア](https://www.toshiba-carrier.co.jp/products/industry/index_j.htm)
-* [川重冷熱工業](https://www.khi.co.jp/corp/kte/product/catalogue/)
-* [日立グローバルライフソリューションズ（スクリュー冷凍機）](http://www.hitachi-ap-catalog.com/fl3/screw/html5.html#page=37)
-* [ダイキン](https://ec.daikinaircon.com/ecatalog/DKCC012/index.html)
-* [トレイン・ジャパン](https://www.jp.trane.com/commercial/asia-pacific/jp/ja/products/centrifugal.html)
+[荏原冷熱](http://www.ers.ebara.com/product/absorption-h/)｜[三菱重工サーマルシステムズ](https://www.mhi-mth.co.jp/catalogue/list.html)｜[東芝キャリア](https://www.toshiba-carrier.co.jp/products/industry/index_j.htm)｜[川重冷熱工業](https://www.khi.co.jp/corp/kte/product/catalogue/)｜[日立グローバルライフソリューションズ（スクリュー冷凍機）](http://www.hitachi-ap-catalog.com/fl3/screw/html5.html#page=37)｜[ダイキン](https://ec.daikinaircon.com/ecatalog/DKCC012/index.html)｜[トレイン・ジャパン](https://www.jp.trane.com/commercial/asia-pacific/jp/ja/products/centrifugal.html)
 
 ### 冷却塔
 冷却塔の基礎知識に関しては[こちら](http://shinwa-coolingtower.com/material/m01.html)（荏原冷熱技術資料）。
@@ -167,6 +161,9 @@
 
 ### ガス
 
+### 電気
+* 接地工事には[AからD](https://www.youtube.com/watch?v=oYDy0diGfi4)の種類があります。
+* [駐車場のゲート管理](https://public-s.com/blog/2014/02/%E9%A7%90%E8%BB%8A%E5%A0%B4%E3%81%AE%E3%80%8C%E3%83%AB%E3%83%BC%E3%83%97%E3%82%B3%E3%82%A4%E3%83%AB%E3%80%8D%E3%81%AE%E5%BD%B9%E5%89%B2%E3%81%A8%E6%96%BD%E5%B7%A5%E6%96%B9%E6%B3%95/)
 
 ## 環境
 気温度・圧力
