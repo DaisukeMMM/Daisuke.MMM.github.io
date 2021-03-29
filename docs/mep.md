@@ -18,6 +18,7 @@
 * [JIS検索](https://kikakurui.com/)
 * [平成28年度省エネ基準 WEBPRO](https://www.kenken.go.jp/becc/index.html)
 * [平成25年度省エネ基準 WEBPRO](https://www.kenken.go.jp/becc/index_h25.html)
+* [建築研究所 研究資料](https://www.kenken.go.jp/japanese/contents/publications/data.html)
 * [WEBPROによる非住宅計算の計算ロジック](https://webpro-nr.github.io/BESJP_EngineeringReference/index.html)
 
 ## データベース
