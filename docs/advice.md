@@ -185,6 +185,7 @@
 
 ## 読んでおくと役に立つ
 * [1kPaとは？圧力の大きさについて](https://lifeisfruits.com/2018/07/28/about-pressure/)
+* [ビル管理士総合情報.com](http://takeharu.lolipop.jp/)
 
 ## ＝＝＝＝＝＝＝＝＝＝＝＝＝
 以下整理中。
