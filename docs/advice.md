@@ -183,9 +183,19 @@
 ## 環境
 気温度・圧力
 
-## 読んでおくと役に立つ
+## 読んだり見たりして役に立ったもの
 * [1kPaとは？圧力の大きさについて](https://lifeisfruits.com/2018/07/28/about-pressure/)
-* [ビル管理士総合情報.com](http://takeharu.lolipop.jp/)
+* [ビル管理士総合情報.com](http://takeharu.lolipop.jp/)：設備士対策の入り口にはちょうど良いと思います。
+* [図とキーワードで学ぶ建築設備のオーディオブック](https://www.youtube.com/user/niitPBL2012/videos)
+* [下水のしくみ（分流・合流式）](https://www.youtube.com/watch?v=A5MFcMlckas)
+* [交流の発明](https://www.youtube.com/watch?v=7QBDSJk7piE&list=PLG8XhSHgFrA-Rd3gxoEQP6Q23trQzkDDe&index=22&t=4s)
+* [ヒートポンプのしくみ](https://www.youtube.com/watch?v=sby40QSgfx4&list=PLG8XhSHgFrA-Rd3gxoEQP6Q23trQzkDDe&index=16)
+* [止水の重要性](https://www.youtube.com/watch?v=vy19g8MGht0&list=PLG8XhSHgFrA-Rd3gxoEQP6Q23trQzkDDe&index=186)
+* [冷凍機のしくみ](https://www.youtube.com/watch?v=uXjVsIDKn4E&list=PLG8XhSHgFrA-Rd3gxoEQP6Q23trQzkDDe&index=15)
+* [アルミニウムとカーテンウォール](https://www.youtube.com/watch?v=OPjXjdL1_wU&list=PLG8XhSHgFrA-Rd3gxoEQP6Q23trQzkDDe&index=31&t=9s)
+* [建築構造と振動](https://www.youtube.com/watch?v=t1Qz_buAsuQ&list=PLG8XhSHgFrA-Rd3gxoEQP6Q23trQzkDDe&index=3)
+* [生活とモデュール](https://www.youtube.com/watch?v=bCom11D_0qs&list=PLG8XhSHgFrA-Rd3gxoEQP6Q23trQzkDDe&index=42&t=9s)
+
 
 ## ＝＝＝＝＝＝＝＝＝＝＝＝＝
 以下整理中。
