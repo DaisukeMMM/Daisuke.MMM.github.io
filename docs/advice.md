@@ -172,6 +172,8 @@
 
 
 ### 消防
+なかなかモノと名前、なんのためにその設備がそこに必要なのか分かりづらい部分もあるので一度目を通しておくと良いです。→[青木防災ブログ](https://www.aokibosai.com/%E3%83%96%E3%83%AD%E3%82%B0%E3%83%9A%E3%83%BC%E3%82%B8/)
+
 * 自火報（自動火災報知器）の[種類・設置基準](https://electric-facilities.jp/denki9/kanchiki.html)
 * また自火報によって感知したことを知らせる[地区音響装置の設置基準](https://www.minakami.co.jp/sekoukijun/design13.htm)
 
