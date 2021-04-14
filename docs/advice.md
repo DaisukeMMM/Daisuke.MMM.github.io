@@ -64,6 +64,7 @@
 ### 環境工学
 * [貫流熱や表面からの熱損失の計算](https://www.hakko.co.jp/qa/qakit/html/s01050.htm)
 
+
 ### 原動機
 設備機器はほとんどエネルギーを原動機に投じて仕事をさせる。
 
@@ -187,6 +188,7 @@
 気温度・圧力
 
 ## 読んだり見たりして役に立ったもの
+* [ヒートポンプの物理的背景](http://fnorio.com/0106heat_engine(refrigeration_cycle)1/heat_engine(refrigeration_cycle)1.htm)
 * [1kPaとは？圧力の大きさについて](https://lifeisfruits.com/2018/07/28/about-pressure/)
 * [ビル管理士総合情報.com](http://takeharu.lolipop.jp/)：設備士対策の入り口にはちょうど良いと思います。
 * [図とキーワードで学ぶ建築設備のオーディオブック](https://www.youtube.com/user/niitPBL2012/videos)
