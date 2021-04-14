@@ -29,8 +29,6 @@
 ## A_基礎知識
 まず役に立ちそうな基礎知識全般。
 
-
-
 * 建築設備関連法規
 * 事前調査
 * 事前協議
@@ -82,6 +80,9 @@
 
 ### 制御
 * [自動制御の専門用語](https://www.azbil.com/jp/corporate/pr/atoz/index.html)
+
+### 工事・監理
+* [CONCOMの現場管理の達人](https://concom.jp/contents/expert_supervision/)：写真付きでわかりやすい。
 
 ## 空調
 ### 熱負荷計算
