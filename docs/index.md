@@ -14,6 +14,7 @@ QiitaにはIdを絞って検索する機能がないため投稿記事を絞る�
 
 ### Tips
 Qiitaに書くほどではないちょっとしたテクニック。
+* [Windows導入したらはじめにやること](tip210416.md)
 * [Revitのこれだけは覚えとけってメモ](tip210415.md)
 * [統計・検定手法に悩んだ時のガイド](tip210301.md)
 * [点光源とみなせる限界](tip201210.md)
@@ -29,7 +30,6 @@ Qiitaに書くほどではないちょっとしたテクニック。
 * [MEP（各種団体・基準）](mep.md)
 * [MEP（設備設計のための辞書的リンク集）](advice.md)
 * [発表用PPTなどで使える素材先](material.md)
-* [作業するときに流し見に便利なプレイリスト(YouTube)](https://youtube.com/playlist?list=PLRqKZhocpxhSClTDitT4kK3GXTxGS8wzm)
 
 ## profile
 都内で建築設備設計の仕事をしています。
