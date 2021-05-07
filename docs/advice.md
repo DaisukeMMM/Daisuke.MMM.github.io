@@ -2,15 +2,12 @@
 建築設備設計をしている人向けによく使うものなどをまとめています。建築など他セクションが自身でちょっと調べるのにも役立つと思います。
 
 ## 必須アイテム
-ここにランクインしているのは特によく使
+ここにリストアップしているものはよく使うもの。
 
 * [単位変換](https://www.convertworld.com/ja/)：CONVERT WORLD
 * [空気状態計算（湿度・エンタルピ）](https://www.shinyei.co.jp/stc/service/water_converter.html)：神栄テクノロジー
-
 * [各種公式（マニング等）](http://ebw.eng-book.com/heishin/vfs/)
 * 騒音レベル計算：[点音源値自明の時](https://keisan.casio.jp/exec/user/1615367319)｜[点音源値不明の時](https://keisan.casio.jp/exec/user/1615366324)
-
-
 
 
 ### 物性値
