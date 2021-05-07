@@ -53,7 +53,6 @@
 
 
 ・[【参考】日本建設連合会）建築技術者向け設備工事ポイントシート](https://www.nikkenren.com/kenchiku/equipmentpoint/mokuji.html)
-・[排水ます・排水まわり工事イメージ](http://nihonhome.co.jp/blog/)
 ・[建築各工事の流れ（東建）](https://www.token.co.jp/tochi_katsuyo/kenchiku_manu/index1.shtml)
 
 
@@ -160,7 +159,10 @@
 * 建物で必要な水量は主に1日の使用量を原単位から求め、[所定の計算方法](http://www.teral.info/pdf/t_catalog/356/file.pdf)で求めます。
 
 ### 排水
-易しい[用語集](http://www.shincoo.com/shincoo/content/m044haisui-jitenn.html)があるので一読してから進めたい。特にこの分野は水理学者の名前が式名についていることも多く、[これ](http://library.jsce.or.jp/jsce/open/00027/1983/19-A06.pdf)も呼んでおくとよい。
+易しい[用語集](http://www.shincoo.com/shincoo/content/m044haisui-jitenn.html)があるので一読してから進めたい。特にこの分野は水理学者の名前が式名についていることも多く、[これ](http://library.jsce.or.jp/jsce/open/00027/1983/19-A06.pdf)も呼んでおくとよい。以下は図も豊富で排水の設計にがより楽になる資料。
+
+・[排水ます・排水まわり工事イメージ](http://nihonhome.co.jp/blog/)
+・[驚くほどわかりやすいマエザワの排水設備の設計の概要](https://www.maezawa-k.co.jp/school/sekkei/)
 
 #### 汚水
 * 排水の*自然流下の場合*には[マニングの式](http://ebw.eng-book.com/heishin/MeanFlowVelocityFormula_manning_formula_book.do?category=manning_formula)を利用して流速・流量を計算する、ただし宅内の配管材と屋外の管渠では係数等が異なるので注意が必要。
@@ -275,29 +277,6 @@
 * ガス給湯器の号数表示
 * 給湯器の号数と給湯目安
 
-## 排水・通気設備
-* 衛生器具の排水負荷単位数
-* 排水横主管及び敷地排水管の許容最大器具排水負荷单位数
-* 排水横枝管及び立て管の許容
-* 最大器具排水負荷单位数
-* 通気管の口径と長さ
-* 排水口空間
-* 排水管の許容流量QP
-* 排水タンクの構造基準
-* 雨水立て管の管径
-* 雨水横管の管径
-* 各地の降水量の最大記録
-* 雨水流出量
-* 工種別基礎流出係数の標準値
-* 用途別総括流出係数の標準値
-* 雨水及び汚水桝の仕様
-* 下水管流量表 排水量の事前協議
-* グリース阻集器
-* 下水排除基準
-* 衛生器具設備
-* 衛生器具の標準取付け寸法
-* 一般器具及びシャワー 単独水栓器具装備品
-* 車いす用衛生器具標準取付寸法
 
 ## 浄化槽
 * 浄化槽の構造方法
@@ -847,6 +826,3 @@
 * 建築基準法で規定されるシックハウス対策
 * 建築物衛生法で規定されるシックハウス対策
 * 学校環境衛生の基準で規定されるシックハウス対策
-
-
-
