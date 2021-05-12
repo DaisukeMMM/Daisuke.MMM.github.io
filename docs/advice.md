@@ -31,22 +31,29 @@
 * 事前協議
 * 建築確認申請の流れ
 * 防災性能評価
-* 消防防災システム評価
+
 * その他官庁諸届けの流れ
 * 建築設備に関わる資格
 * シックハウス法規制
 * 省エネルギー法
 * ハートビル法
 * CASBEE
+### 確認申請・行政協議
+法規
+
+* 消防法：具体的な消防同意のための細かな基準は[堺市消防同意基準](https://www.city.sakai.lg.jp/smph/kurashi/bosai/shobo/shokai/reiki/kijyun/setubikijun.html)が参考になる。]
+* 省エネ法：確認審査機関の[TDC](http://www.tdc-web.co.jp/navi/01.html)に適合判定が必要な規模や検証方法あり。
 
 ## 災害対策
 ### 火事などの閉じ込めに対する「避難」対策
 避難対策の仕様規定・性能規定の違い（ルートによる違い）は[この通り](https://www.izumi-bousai.jp/about/)。
 * 地上から遠い位置から逃げるための[特別避難階段](https://syoubou123.com/2019/01/tokubetu-hinankaidan-toha/)
 * 建築基準法と消防法両睨みする必要がある[排煙設備](https://archilink.jp/fluegas-facility)の概要。[設置基準](http://www.teral.info/pdf/t_catalog/2876/file.pdf)もそうだが、設備の場合ダクトやファンなどが火事の最中に[所定性能](https://www.mitsuyaj.co.jp/dcms_media/other/mitsuyafan-technote.pdf)を担保できることが大切。
+* この[排煙設備設置基準のまとめ](https://kakunin-shinsei.com/smoke-exhaust-equipment/)も参考になる。
 
 ### 地震の揺れによる「崩壊」対策
-* [設備機器の耐震基準](http://www.shasej.org/gakkaishi/0704/kouza.pdf)
+* [Wikipedia耐震基準](https://ja.wikipedia.org/wiki/%E8%80%90%E9%9C%87%E5%9F%BA%E6%BA%96)
+* [設備機器の耐震基準](https://setubisekou.com/construction-plan-earthquake-resistance/)
 
 
 ・[【参考】日本建設連合会）建築技術者向け設備工事ポイントシート](https://www.nikkenren.com/kenchiku/equipmentpoint/mokuji.html)
@@ -65,12 +72,16 @@
 設備機器はほとんどエネルギーを原動機に投じて仕事をさせる。
 
 * 空気を送る[ファンモータ](https://www.orientalmotor.co.jp/tech/reference/)の性質。
+* ファンなどは騒音も大きく[東京都環境確保条例](https://www.dinsgr.co.jp/sales/resolution/column/attention/28th/)などに該当する恐れもある。
 
 ### 配管
 * [配管の材料による違い](https://www.monotaro.com/s/pages/readingseries/haikankoujikisokouza/)は使用できる圧力や中を通る液体や気体の特性を考慮して選ぶ必要がある。
 * [管材の寸法など（JIS規格ポケットブック）](https://jis.jts-tokyo.com/)
 * [SUS管](http://www.jssa.gr.jp/contents/about_stainless/key_properties/types/)はその配合によって腐食耐性や脆性などが異なる。
 
+### ダクト
+
+* [ダクト風量計測器の例](https://www.wetmaster.co.jp/product/flowcontrol/ae/)
 
 * [空気線図](https://www.techno-ryowa.co.jp/rrlab/)
 
