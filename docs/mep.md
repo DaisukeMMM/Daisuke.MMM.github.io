@@ -13,6 +13,8 @@
 * [ヒートポンプ蓄熱センター](https://www.hptcj.or.jp/)
 * [環境共創イニシアチブ](https://sii.or.jp/)
 * [自立循環型住宅への設計ガイドライン](http://www.jjj-design.org/guideline/)
+* [Green Building Japan（WELL・LEED認証）](https://www.gbj.or.jp/)
+
 
 ## 基準等
 * [JIS検索](https://kikakurui.com/)
