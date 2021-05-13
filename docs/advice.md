@@ -78,6 +78,8 @@
 * 弁も流体の制御やかかる圧力によってフィットする種類がことなるので[これ](https://www.kitz-valvesearch.com/kiso/type_gatevalve.html)でしくみと併せて理解。
 
 ### 配管
+くだらない語呂合わせですが、よく間違えるVU管とVP管の名称、それぞれ「ビニル薄い」と「ビニルポピュラー」で覚えています。。笑
+
 * [配管の材料による違い](https://www.monotaro.com/s/pages/readingseries/haikankoujikisokouza/)は使用できる圧力や中を通る液体や気体の特性を考慮して選ぶ必要がある。
 * [管材の寸法など（JIS規格ポケットブック）](https://jis.jts-tokyo.com/)
 * [SUS管](http://www.jssa.gr.jp/contents/about_stainless/key_properties/types/)はその配合によって腐食耐性や脆性などが異なる。
