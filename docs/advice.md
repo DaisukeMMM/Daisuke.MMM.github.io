@@ -84,7 +84,9 @@
 * [ダクト風量計測器の例](https://www.wetmaster.co.jp/product/flowcontrol/ae/)
 
 * [空気線図](https://www.techno-ryowa.co.jp/rrlab/)
-
+* 
+#### 塗装
+* [日塗工]（https://www.toryo.or.jp/index.html）
 
 ### 制御
 * [自動制御の専門用語](https://www.azbil.com/jp/corporate/pr/atoz/index.html)
