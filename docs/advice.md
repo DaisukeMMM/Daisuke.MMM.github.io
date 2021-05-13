@@ -73,6 +73,7 @@
 
 * 空気を送る[ファンモータ](https://www.orientalmotor.co.jp/tech/reference/)の性質。
 * ファンなどは騒音も大きく[東京都環境確保条例](https://www.dinsgr.co.jp/sales/resolution/column/attention/28th/)などに該当する恐れもある
+* 水を送る場合はポンプとなるが、能力（揚程）は[実揚程と全揚程](https://engineer-education.com/pump-11_actual-head/)が存在する。
 
 ### 弁
 * 弁も流体の制御やかかる圧力によってフィットする種類がことなるので[これ](https://www.kitz-valvesearch.com/kiso/type_gatevalve.html)でしくみと併せて理解。
