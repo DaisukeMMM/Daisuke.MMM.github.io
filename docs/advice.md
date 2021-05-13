@@ -72,7 +72,10 @@
 設備機器はほとんどエネルギーを原動機に投じて仕事をさせる。
 
 * 空気を送る[ファンモータ](https://www.orientalmotor.co.jp/tech/reference/)の性質。
-* ファンなどは騒音も大きく[東京都環境確保条例](https://www.dinsgr.co.jp/sales/resolution/column/attention/28th/)などに該当する恐れもある。
+* ファンなどは騒音も大きく[東京都環境確保条例](https://www.dinsgr.co.jp/sales/resolution/column/attention/28th/)などに該当する恐れもある
+
+### 弁
+* 弁も流体の制御やかかる圧力によってフィットする種類がことなるので[これ](https://www.kitz-valvesearch.com/kiso/type_gatevalve.html)でしくみと併せて理解。
 
 ### 配管
 * [配管の材料による違い](https://www.monotaro.com/s/pages/readingseries/haikankoujikisokouza/)は使用できる圧力や中を通る液体や気体の特性を考慮して選ぶ必要がある。
