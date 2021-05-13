@@ -14,6 +14,7 @@
 * [環境共創イニシアチブ](https://sii.or.jp/)
 * [自立循環型住宅への設計ガイドライン](http://www.jjj-design.org/guideline/)
 * [Green Building Japan（WELL・LEED認証）](https://www.gbj.or.jp/)
+* [独法）海洋研究開発機構](http://www.jamstec.go.jp/j/)：気候変動などのプレスリリースが多い。
 
 
 ## 基準等
