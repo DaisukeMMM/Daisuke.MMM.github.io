@@ -2,16 +2,17 @@
 設計用の資料まとめ。目次は以下の通り、Ctrl+Fでキーワー検索したほうが使いやすいかもしれない。
 
 * [定数・計算表](#定数・計算表)
+* [災害対策](#)
+* [空調](#)
+* [衛生](#)
+* [電気](#)
+* [消防](#)
+* [ガス](#)
 * [](#)
 * [](#)
 * [](#)
 * [](#)
-* [](#)
-* [](#)
-* [](#)
-* [](#)
-* [](#)
-* [](#)
+* [建築基礎](#)
 * [読んだり見たりして役に立ったもの](#読んだり見たりして役に立ったもの)
 
 
@@ -72,13 +73,7 @@
 * [設備機器の耐震基準](https://setubisekou.com/construction-plan-earthquake-resistance/)
 
 
-・[【参考】日本建設連合会）建築技術者向け設備工事ポイントシート](https://www.nikkenren.com/kenchiku/equipmentpoint/mokuji.html)
-・[建築各工事の流れ（東建）](https://www.token.co.jp/tochi_katsuyo/kenchiku_manu/index1.shtml)
 
-
-* [大阪市建築基準法取扱い要領](https://www.city.osaka.lg.jp/toshikeikaku/page/0000021604.htm
-* [EchoLand-plus. 冷凍機械責任者試験対策](http://www.echoland-plus.com/index.html)
-* [オフィスビルの省エネ化とビルメンテナンス](http://www.fukuoka-bma.jp/%e3%83%93%e3%83%ab%e3%81%ae%e7%9c%81%e3%82%a8%e3%83%8d%e6%8c%87%e5%8d%97%e6%9b%b8-%e3%80%80%e3%81%9d%e3%81%ae%ef%bc%91/)：福岡県ビルメンテナンス協会
 
 ### 環境工学
 * [貫流熱や表面からの熱損失の計算](https://www.hakko.co.jp/qa/qakit/html/s01050.htm)
@@ -220,6 +215,16 @@
 
 ## 環境
 気温度・圧力
+
+
+・[【参考】日本建設連合会）建築技術者向け設備工事ポイントシート](https://www.nikkenren.com/kenchiku/equipmentpoint/mokuji.html)
+・[建築各工事の流れ（東建）](https://www.token.co.jp/tochi_katsuyo/kenchiku_manu/index1.shtml)
+
+
+* [大阪市建築基準法取扱い要領](https://www.city.osaka.lg.jp/toshikeikaku/page/0000021604.htm
+* [EchoLand-plus. 冷凍機械責任者試験対策](http://www.echoland-plus.com/index.html)
+* [オフィスビルの省エネ化とビルメンテナンス](http://www.fukuoka-bma.jp/%e3%83%93%e3%83%ab%e3%81%ae%e7%9c%81%e3%82%a8%e3%83%8d%e6%8c%87%e5%8d%97%e6%9b%b8-%e3%80%80%e3%81%9d%e3%81%ae%ef%bc%91/)：福岡県ビルメンテナンス協会
+
 
 ## 読んだり見たりして役に立ったもの
 * [ヒートポンプの物理的背景](http://fnorio.com/0106heat_engine(refrigeration_cycle)1/heat_engine(refrigeration_cycle)1.htm)
