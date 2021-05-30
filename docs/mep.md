@@ -91,6 +91,10 @@
 
 ### 光環境シミュレーション
 * [Radiance日本語解説サイト](https://arch.xtr.jp/radiance/frame.htm)
+  * [Radianceソフトダウンロード](https://github.com/NREL/Radiance/releases)
+  * Windowsで現像するためのソフト：[wxfalsecolor](http://tbleicher.github.io/wxfalsecolor/)／[RadDisplay](https://discourse.radiance-online.org/t/raddisplay-1-1-1/1971)
+
+* [JALOXA](https://www.jaloxa.eu/index.shtml)
 * [大分大学 環境研究室](http://www.arch.oita-u.ac.jp/env/)：CIE標準天空モデルやAll Sky Modelの輝度分布モデルをブラウザで見れるので重宝しています。
 * [CIE Sky Generator](http://andrewmarsh.com/software/cie-sky-web/)：こちらも同様に天空モデルをブラウザで見ることができます。Sky Patchに分割されていますね。
 * [和歌山大学床井研究室](http://marina.sys.wakayama-u.ac.jp/~tokoi/oglarticles.html) ：光環境シミュレーションはかなりCG技術と密接なのでとても参考になります。
