@@ -100,6 +100,7 @@
 * [和歌山大学床井研究室](http://marina.sys.wakayama-u.ac.jp/~tokoi/oglarticles.html) ：光環境シミュレーションはかなりCG技術と密接なのでとても参考になります。
 * [Wgld.org](https://wgld.org/)：同上の理由でここに載せていますが、こちらはOpenGLなどの解説がメインです。
 * [SolarGIS](https://solargis.com/)
+* [Kerktha](https://www.kerkythea.net/cms/)：レンダラですが結構中を直接いじれるので便利でした。2018年で更新が止まっているのが残念。
 
 ### 設備システムシミュレーション
 * [Popolo（富樫先生）](http://www.hvacsimulator.net/)
