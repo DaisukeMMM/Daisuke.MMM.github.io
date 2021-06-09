@@ -186,6 +186,7 @@
 ## 衛生
 ### 給水
 * 建物で必要な水量は主に1日の使用量を原単位から求め、[所定の計算方法](http://www.teral.info/pdf/t_catalog/356/file.pdf)で求めます。
+* [流量・水頭損失の計算方法](http://kyusouken.com/flow.html)：給装研より。
 
 ### 排水
 易しい[用語集](http://www.shincoo.com/shincoo/content/m044haisui-jitenn.html)があるので一読してから進めたい。特にこの分野は水理学者の名前が式名についていることも多く、[これ](http://library.jsce.or.jp/jsce/open/00027/1983/19-A06.pdf)も呼んでおくとよい。以下は図も豊富で排水の設計にがより楽になる資料。
@@ -195,7 +196,6 @@
 
 #### 汚水
 * 排水の*自然流下の場合*には[マニングの式](http://ebw.eng-book.com/heishin/MeanFlowVelocityFormula_manning_formula_book.do?category=manning_formula)を利用して流速・流量を計算する、ただし宅内の配管材と屋外の管渠では係数等が異なるので注意が必要。
-* 
 * 地下など自然流下不可で、排水槽を設ける際の[注意点](https://www.gesui.metro.tokyo.lg.jp/contractor/pdf/41ccb1e759ec246374824ae10331a7e92a70595a.pdf)
 
 #### 雨水
