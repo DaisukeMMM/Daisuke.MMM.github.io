@@ -13,6 +13,11 @@
 * [シルエットデザイン](https://kage-design.com/)
 * [イラストAC](https://www.ac-illust.com/)：学校とかお店の手作りのチラシとかのかわいい雰囲気のものが多い。
 
+## 図解例
+インフォグラフィックを作成する時などに参考になる。
+* [infogra.me](https://infogra.me/ja/infographics/staff_picks)
+* [ZUNNY](https://zunny.jp/)
+
 
 ## 配色
 * [HUE/360](https://hue360.herokuapp.com/)
