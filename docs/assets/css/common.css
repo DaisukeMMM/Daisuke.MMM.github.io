@@ -391,6 +391,7 @@ abbr{border-bottom:none;}
 
 
 #toc {
+  margin: 0;
   padding: 100px 0 0 10px;
   position: fixed;
   font-size:60%;
