@@ -197,7 +197,7 @@ ul{
 
 ul li{
 	position: relative;
-	padding: .4em 0 .4em .4em;
+	padding: .4em 0 .4em 2.5em;
 	list-style-type: none!important;
 	border-bottom: 0.5px dashed #a0aba7;
 }
@@ -391,10 +391,12 @@ abbr{border-bottom:none;}
 
 
 nav {
+position: fixed;
 background-color: #000;
   flex: 1 1 300px;
   min-width: 240px;
   paddings: 1rem;
+  overflow-x: visible;
   overflow-y: auto;
 }
 
