@@ -403,13 +403,13 @@ abbr{border-bottom:none;}
   overflow-x: hidden;
   overflow-y: auto;
 }
-#toc ul {
+ul {
   padding-left: 0;
   list-style: none;
   padding: 0 0 0 2.5em;
 }
 
-#toc li{
+li{
   position: relative;
   padding: .4em 0 .4em .4em;
   list-style-type: none!important;
