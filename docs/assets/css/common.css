@@ -185,7 +185,7 @@ a:hover{color:#9839a0;text-decoration:underline;text-decoration-color:#edd3ef;ou
 
 /* ブロック要素の装飾 */
 p, table, ul, ol, dl, pre, blockquote {
-	margin-left:4em;
+	margin-left:2em;
 	ul, ol, dl {margin-left: 0px;}
 }
 
