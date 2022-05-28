@@ -396,7 +396,7 @@ background-color: #000;
   flex: 1 1 300px;
   min-width: 360px;
   paddings: 1rem;
-  overflow-x: visible;
+  overflow-x: hidden;
   overflow-y: auto;
 }
 
