@@ -402,6 +402,7 @@ abbr{border-bottom:none;}
   min-width: 100px;
   overflow-x: hidden;
   overflow-y: auto;
+		background-color: #444;
 }
 
 #toc ul{
