@@ -405,14 +405,14 @@ abbr{border-bottom:none;}
 		background-color: #444;
 }
 
-#toc ul{
+ul{
   margin: 0;
   padding-left: 0;
   list-style: none;
   padding: 0 0 0 2.5em;
 }
 
-#toc li{
+li{
   margin: 0;
   position: relative;
   padding: .4em 0 .4em .4em;
