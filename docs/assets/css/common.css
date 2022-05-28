@@ -391,14 +391,15 @@ abbr{border-bottom:none;}
 
 
 nav {
+  padding: 0 0 0 2.5em;
   position: fixed;
   font-size:60%;
   color: #4c4849;
   font-weight: normal;
   background-color: #000;
   text-align: left;
-  flex: 1 1 300px;
-  max-width: 140px;
+  flex: 1 1 140px;
+  max-width: 100px;
   paddings: 1rem;
   overflow-x: hidden;
   overflow-y: auto;
@@ -416,10 +417,6 @@ nav li{
   list-style-type: none!important;
   border-bottom: none
 }
-
-
-
-
 
 #wrapper{
 	display: flex;
