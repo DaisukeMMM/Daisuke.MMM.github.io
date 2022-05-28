@@ -398,19 +398,21 @@ abbr{border-bottom:none;}
   color: #4c4849;
   font-weight: normal;
   text-align: left;
- 
+  flex: 1 1 100px;
   min-width: 100px;
   overflow-x: hidden;
   overflow-y: auto;
 }
 
-#toc>ul {
+#toc ul{
+  margin: 0;
   padding-left: 0;
   list-style: none;
   padding: 0 0 0 2.5em;
 }
 
 #toc li{
+  margin: 0;
   position: relative;
   padding: .4em 0 .4em .4em;
   list-style-type: none!important;
