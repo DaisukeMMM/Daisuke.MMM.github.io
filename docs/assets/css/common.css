@@ -392,9 +392,13 @@ abbr{border-bottom:none;}
 
 nav {
 position: fixed;
+font-size:75%;
+color: #4c4849;
+line-height:1.3em;
+font-weight: normal;
 background-color: #000;
   flex: 1 1 300px;
-  min-width: 360px;
+  min-width: 140px;
   paddings: 1rem;
   overflow-x: hidden;
   overflow-y: auto;
@@ -411,8 +415,8 @@ background-color: #000;
 #mainContents{
 	position: relative;
 	z-index: 1;
-	width: 600px;
-	margin: 0 0 100px 360px;
+	width: 820px;
+	margin: 0 0 100px 140px;
 	text-align: left;
 }
 
