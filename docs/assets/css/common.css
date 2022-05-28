@@ -392,17 +392,35 @@ abbr{border-bottom:none;}
 
 nav {
 position: fixed;
-font-size:75%;
+font-size:60%;
 color: #4c4849;
 line-height:1.3em;
 font-weight: normal;
 background-color: #000;
+	text-align: left;
   flex: 1 1 300px;
   min-width: 140px;
   paddings: 1rem;
   overflow-x: hidden;
   overflow-y: auto;
+
 }
+
+nav ul {
+  list-style: none;
+  padding-left: 1.25rem;
+}
+ 
+nav li::before {
+  content: "\2022";
+  color: #111;
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+
+
 
 #wrapper{
 	display: flex;
