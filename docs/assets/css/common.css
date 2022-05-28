@@ -391,14 +391,14 @@ abbr{border-bottom:none;}
 
 
 nav {
-  padding: 0 0 0 2.5em;
+  padding: 100px 0 0 10px;
   position: fixed;
   font-size:60%;
   color: #4c4849;
   font-weight: normal;
   text-align: left;
   flex: 1 1 140px;
-  max-width: 100px;
+  min-width: 100px;
   overflow-x: hidden;
   overflow-y: auto;
 }
