@@ -390,7 +390,7 @@ abbr{border-bottom:none;}
 
 
 
-nav {
+#toc {
   padding: 100px 0 0 10px;
   position: fixed;
   font-size:60%;
@@ -402,14 +402,13 @@ nav {
   overflow-x: hidden;
   overflow-y: auto;
 }
-
-nav ul {
+#toc ul {
   padding-left: 0;
   list-style: none;
   padding: 0 0 0 2.5em;
 }
 
-nav li{
+#toc li{
   position: relative;
   padding: .4em 0 .4em .4em;
   list-style-type: none!important;
