@@ -391,8 +391,7 @@ abbr{border-bottom:none;}
 
 
 nav {
-  position: relative;
-  background: #000;
+background-color: #000;
   flex: 1 1 300px;
   min-width: 240px;
   paddings: 1rem;
