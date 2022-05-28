@@ -396,11 +396,9 @@ nav {
   font-size:60%;
   color: #4c4849;
   font-weight: normal;
-  background-color: #000;
   text-align: left;
   flex: 1 1 140px;
   max-width: 100px;
-  paddings: 1rem;
   overflow-x: hidden;
   overflow-y: auto;
 }
